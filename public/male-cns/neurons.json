@@ -1,0 +1,4041 @@
+{
+  "source": "MaleCNS v1.0",
+  "units": "nm",
+  "selection": "96 neurons per displayed family, stratified by type; additional native-surface exemplars. Not a representative or complete connectome.",
+  "featured": [
+    "10015",
+    "13882",
+    "10013",
+    "14292",
+    "10039",
+    "10075",
+    "10539",
+    "10043"
+  ],
+  "neurons": [
+    {
+      "id": "10016",
+      "type": "HSE",
+      "instance": "HSE_R",
+      "group": "optic",
+      "nodes": 11071,
+      "edges": 11070,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10016",
+      "sha256": "a43b946f88646130610a1a537f01fbf36cccdfb76782cf6bbeb79a9959ba482b"
+    },
+    {
+      "id": "10181",
+      "type": "HSN",
+      "instance": "HSN_L",
+      "group": "optic",
+      "nodes": 2301,
+      "edges": 2300,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10181",
+      "sha256": "e00a081ccfc80babda1f195bb8615c066891ffecdd9da004f55510e78e13d703"
+    },
+    {
+      "id": "10023",
+      "type": "HSS",
+      "instance": "HSS_R",
+      "group": "optic",
+      "nodes": 2515,
+      "edges": 2514,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10023",
+      "sha256": "d6a95b9ba4790705ed5fb3e3a19066b6e6ed30a5dcb39699ed1c94b3cb15d3a6"
+    },
+    {
+      "id": "52252",
+      "type": "Mi1",
+      "instance": "Mi1_L",
+      "group": "optic",
+      "nodes": 317,
+      "edges": 316,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/52252",
+      "sha256": "995eec1f35905c4a678ca4059d0c72e5317c8f01d309ce1ab725fc57516f5013"
+    },
+    {
+      "id": "112544",
+      "type": "T4a",
+      "instance": "T4a_L",
+      "group": "optic",
+      "nodes": 586,
+      "edges": 585,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/112544",
+      "sha256": "dc3bd52ffa31f82cfdd228b2c82e9c78c7a7f76cb868095bfebf6a5b33607d3e"
+    },
+    {
+      "id": "104622",
+      "type": "T4b",
+      "instance": "T4b_R",
+      "group": "optic",
+      "nodes": 585,
+      "edges": 584,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/104622",
+      "sha256": "6c34f21a0532a2f18bba7e4c6181f185894c719191de960db22dbc75df7333c9"
+    },
+    {
+      "id": "118348",
+      "type": "T4c",
+      "instance": "T4c_R",
+      "group": "optic",
+      "nodes": 444,
+      "edges": 443,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/118348",
+      "sha256": "6d6240d9a1c5c00c22e5bc79913ccc5ea6092dc5179d82a1ea50d3eebda17591"
+    },
+    {
+      "id": "132532",
+      "type": "T4d",
+      "instance": "T4d_R",
+      "group": "optic",
+      "nodes": 385,
+      "edges": 384,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/132532",
+      "sha256": "4d959f6854a650a09e7ab6634547f7541971064f37f19c1ba1cf8ffb07123b74"
+    },
+    {
+      "id": "136207",
+      "type": "T5a",
+      "instance": "T5a_R",
+      "group": "optic",
+      "nodes": 303,
+      "edges": 302,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/136207",
+      "sha256": "7322d491af2dbc3a1ee602477ea5f9c2be8b4f1fbfe6fc9baa5997a9c757f597"
+    },
+    {
+      "id": "119448",
+      "type": "T5b",
+      "instance": "T5b_R",
+      "group": "optic",
+      "nodes": 339,
+      "edges": 338,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/119448",
+      "sha256": "df6870c85e01b10e1e579a9437502c957ac9dfa19133b1c4fe740a320e4a0ee7"
+    },
+    {
+      "id": "109977",
+      "type": "T5c",
+      "instance": "T5c_R",
+      "group": "optic",
+      "nodes": 347,
+      "edges": 346,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/109977",
+      "sha256": "8aef7d2fa3ae6696be83915d98543f878de775f299cb486c486281eb617d4af3"
+    },
+    {
+      "id": "116843",
+      "type": "T5d",
+      "instance": "T5d_L",
+      "group": "optic",
+      "nodes": 400,
+      "edges": 399,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/116843",
+      "sha256": "352ac5299e82c9ee9c0aca13c20e7c3b6bc119908602af3f7e352a7413ea9fc2"
+    },
+    {
+      "id": "533957",
+      "type": "Tm1",
+      "instance": "Tm1_L",
+      "group": "optic",
+      "nodes": 1735,
+      "edges": 1734,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/533957",
+      "sha256": "04bd1f6e4a42819bf504cd873b476bd086c54c3678fa5cd2ac9518849b52e7fa"
+    },
+    {
+      "id": "52260",
+      "type": "Tm2",
+      "instance": "Tm2_R",
+      "group": "optic",
+      "nodes": 466,
+      "edges": 465,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/52260",
+      "sha256": "fb91582852f1754821515d8e8343d0d705217dd8f9c01c8ab00c404215c38776"
+    },
+    {
+      "id": "524509",
+      "type": "Tm3",
+      "instance": "Tm3_L",
+      "group": "optic",
+      "nodes": 2620,
+      "edges": 2619,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/524509",
+      "sha256": "f90481ce2b7d00b81eaa7aefc7fdbabf1e15fda6bc094a36f9fdff69056b4e79"
+    },
+    {
+      "id": "522954",
+      "type": "VS",
+      "instance": "VS_L",
+      "group": "optic",
+      "nodes": 2757,
+      "edges": 2756,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/522954",
+      "sha256": "fd065ed9bbc4cbc541e35c6b141b59f44d5a76b3653956df7db6bf0adcc8d5ad"
+    },
+    {
+      "id": "10034",
+      "type": "HSE",
+      "instance": "HSE_L",
+      "group": "optic",
+      "nodes": 2614,
+      "edges": 2613,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10034",
+      "sha256": "ed0aad1b1eda7daea6cd79da7a0880ce050abc818c6379099935cb0714b7e89c"
+    },
+    {
+      "id": "10015",
+      "type": "HSN",
+      "instance": "HSN_R",
+      "group": "optic",
+      "nodes": 10092,
+      "edges": 10091,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10015",
+      "sha256": "5fd654f1f0c1f61eec7e9e484ca192ab7d2844acd8ea6969c30101d66ae12ef5",
+      "mesh": {
+        "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/meshes-malecns/single-res-meshes/10015.ngmesh",
+        "vertices": 503224,
+        "triangles": 675354,
+        "bounds": [
+          [
+            117803.109375,
+            177047.375,
+            280553.375
+          ],
+          [
+            340822.34375,
+            309624.375,
+            329395.03125
+          ]
+        ],
+        "sha256": "dc3e48b782930e68623e02c657b6262ab58d1223a8f74ffbe5259099027471bf"
+      }
+    },
+    {
+      "id": "10419",
+      "type": "HSS",
+      "instance": "HSS_L",
+      "group": "optic",
+      "nodes": 2545,
+      "edges": 2544,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10419",
+      "sha256": "71be5a93bbb230926d99e0899e1173ced94a19324d66b4f7e3075b64f1e22366"
+    },
+    {
+      "id": "45740",
+      "type": "Mi1",
+      "instance": "Mi1_L",
+      "group": "optic",
+      "nodes": 324,
+      "edges": 323,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/45740",
+      "sha256": "4e178bb75ea9ded8601e76fdf0b11a67d9da1aa4825a1766a8277636c0fa0931"
+    },
+    {
+      "id": "105229",
+      "type": "T4a",
+      "instance": "T4a_L",
+      "group": "optic",
+      "nodes": 422,
+      "edges": 421,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/105229",
+      "sha256": "e900291760c5be21c15a7e15267d57d703f9c0d5169d45412542cbe37b7efabb"
+    },
+    {
+      "id": "110989",
+      "type": "T4b",
+      "instance": "T4b_R",
+      "group": "optic",
+      "nodes": 482,
+      "edges": 481,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/110989",
+      "sha256": "64e552aad969a559feddcec61b8c1e4a3013bb6d3d974cd95c19d066dc24c7d6"
+    },
+    {
+      "id": "182491",
+      "type": "T4c",
+      "instance": "T4c_L",
+      "group": "optic",
+      "nodes": 468,
+      "edges": 467,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/182491",
+      "sha256": "ded14c9371ebca1f222a4cda6414da0a1e868b8050bf3eca7e89bd15b88353d8"
+    },
+    {
+      "id": "123695",
+      "type": "T4d",
+      "instance": "T4d_L",
+      "group": "optic",
+      "nodes": 430,
+      "edges": 429,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/123695",
+      "sha256": "d9dfefcf5f371bf6cd4ddc3bd60eb848720e1193a2aed29852d430f70f2f27ab"
+    },
+    {
+      "id": "139588",
+      "type": "T5a",
+      "instance": "T5a_L",
+      "group": "optic",
+      "nodes": 274,
+      "edges": 273,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/139588",
+      "sha256": "e90fb511d36422674fc178cadd3d18b328130b1ab0d95c9dfad941bcf4b2f35e"
+    },
+    {
+      "id": "122329",
+      "type": "T5b",
+      "instance": "T5b_L",
+      "group": "optic",
+      "nodes": 1585,
+      "edges": 1584,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/122329",
+      "sha256": "c61cf295d8b6d081594af24a15eb089e6c6465b0c557f09d95704ae9566fa1eb"
+    },
+    {
+      "id": "550806",
+      "type": "T5c",
+      "instance": "T5c_L",
+      "group": "optic",
+      "nodes": 2162,
+      "edges": 2161,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/550806",
+      "sha256": "0e44eb67e64ccf1c1a69e3c856ab2d385dfcaf5f4fd33ea7a47de4731db2fe70"
+    },
+    {
+      "id": "138094",
+      "type": "T5d",
+      "instance": "T5d_R",
+      "group": "optic",
+      "nodes": 329,
+      "edges": 328,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/138094",
+      "sha256": "457029675e2c3acdc7088498a3f0b047a3acecc52f2b018196e241ee949c71d4"
+    },
+    {
+      "id": "515870",
+      "type": "Tm1",
+      "instance": "Tm1_L",
+      "group": "optic",
+      "nodes": 2036,
+      "edges": 2035,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/515870",
+      "sha256": "791a9ea1b90322446276cc9fa4a27864f35835e68fee33d011da39c53b44e328"
+    },
+    {
+      "id": "130917",
+      "type": "Tm2",
+      "instance": "Tm2_R",
+      "group": "optic",
+      "nodes": 277,
+      "edges": 276,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/130917",
+      "sha256": "d48cbe9b1564b380e83b1e39d0e75aec195f0a5fa79e9a4147fbca9486a228bc"
+    },
+    {
+      "id": "88026",
+      "type": "Tm3",
+      "instance": "Tm3_L",
+      "group": "optic",
+      "nodes": 605,
+      "edges": 604,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/88026",
+      "sha256": "b09431ea2dc22b27e4c48301fb1479421c3ae6ae9984509b491c844e841c1d62"
+    },
+    {
+      "id": "540266",
+      "type": "VS",
+      "instance": "VS_L",
+      "group": "optic",
+      "nodes": 1069,
+      "edges": 1068,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/540266",
+      "sha256": "e8fc8b1daf70b7f548f97669db3a9d2b1b4acf77e0b754ec2452e3b1dbedf0cd"
+    },
+    {
+      "id": "58715",
+      "type": "Mi1",
+      "instance": "Mi1_L",
+      "group": "optic",
+      "nodes": 280,
+      "edges": 279,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/58715",
+      "sha256": "9e92afd11c8774a88a50608b7664858c7f7262d011bf80104c5a98e3c5c2ff9e"
+    },
+    {
+      "id": "116762",
+      "type": "T4a",
+      "instance": "T4a_R",
+      "group": "optic",
+      "nodes": 557,
+      "edges": 556,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/116762",
+      "sha256": "72229d5d728abdb3d00f31312f6c46bc212f4abf17798e4970074718b0bb19e6"
+    },
+    {
+      "id": "100319",
+      "type": "T4b",
+      "instance": "T4b_R",
+      "group": "optic",
+      "nodes": 467,
+      "edges": 466,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/100319",
+      "sha256": "c51716137f799d599ae2d51593df7a03774da5b8ffc2d984ce5237894cebc7e3"
+    },
+    {
+      "id": "83258",
+      "type": "T4c",
+      "instance": "T4c_L",
+      "group": "optic",
+      "nodes": 427,
+      "edges": 426,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/83258",
+      "sha256": "6d2d3ce68ad3207234734c7a1e17f1743bb8a6cc419a8a27b4120248fbb5528b"
+    },
+    {
+      "id": "109652",
+      "type": "T4d",
+      "instance": "T4d_R",
+      "group": "optic",
+      "nodes": 474,
+      "edges": 473,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/109652",
+      "sha256": "aa3eef0d7f414bb5d73e8153fc5cfefc97cd936ca9cb60b966ad4a401f414754"
+    },
+    {
+      "id": "107612",
+      "type": "T5a",
+      "instance": "T5a_L",
+      "group": "optic",
+      "nodes": 397,
+      "edges": 396,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/107612",
+      "sha256": "969efc694995c3f6ba0d67d0fb01e0e21697e0773d4a5366ef915d9ec800accc"
+    },
+    {
+      "id": "124361",
+      "type": "T5b",
+      "instance": "T5b_R",
+      "group": "optic",
+      "nodes": 324,
+      "edges": 323,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/124361",
+      "sha256": "d19ff90364bc4f7e134a489a04d5c401cd1ed9cee131b9485c1b916e3fcdfdfc"
+    },
+    {
+      "id": "134074",
+      "type": "T5c",
+      "instance": "T5c_L",
+      "group": "optic",
+      "nodes": 1759,
+      "edges": 1758,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/134074",
+      "sha256": "492ab662d36ec13ae7e0fa8989b84a25237bf1243e1d402ca5d00bb7a3276e67"
+    },
+    {
+      "id": "108376",
+      "type": "T5d",
+      "instance": "T5d_R",
+      "group": "optic",
+      "nodes": 443,
+      "edges": 442,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/108376",
+      "sha256": "3c7c3f6cdc386ffcc2c08d0b778ac4ccebc1231c8adfeb0b01ab49dd36c1d35e"
+    },
+    {
+      "id": "22936",
+      "type": "Tm1",
+      "instance": "Tm1_L",
+      "group": "optic",
+      "nodes": 365,
+      "edges": 364,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/22936",
+      "sha256": "a086b1ff386dd41580e331e4e8b1d27daa47e63a993c97a250ed8624279a00b1"
+    },
+    {
+      "id": "82722",
+      "type": "Tm2",
+      "instance": "Tm2_L",
+      "group": "optic",
+      "nodes": 398,
+      "edges": 397,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/82722",
+      "sha256": "d4b3dbbd5e89f94362d7d00cb57f5998769304b92b3406fddc67eed68cf43f35"
+    },
+    {
+      "id": "517708",
+      "type": "Tm3",
+      "instance": "Tm3_L",
+      "group": "optic",
+      "nodes": 626,
+      "edges": 625,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/517708",
+      "sha256": "1fa8fa819502ebe6235a31cdab746e94420869e048fd7971b6203297b31c5487"
+    },
+    {
+      "id": "10403",
+      "type": "VS",
+      "instance": "VS_R",
+      "group": "optic",
+      "nodes": 3907,
+      "edges": 3906,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10403",
+      "sha256": "bfe674fb314ecef793a40cc245dae39f7ceacb186d8b6003f1edaa6866c6f4e2"
+    },
+    {
+      "id": "57364",
+      "type": "Mi1",
+      "instance": "Mi1_L",
+      "group": "optic",
+      "nodes": 264,
+      "edges": 263,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/57364",
+      "sha256": "2a2e0a2765594fd2ea19aaec0737098ca390da4b6c5e1c7bf48b20826ebf5195"
+    },
+    {
+      "id": "141270",
+      "type": "T4a",
+      "instance": "T4a_L",
+      "group": "optic",
+      "nodes": 320,
+      "edges": 319,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/141270",
+      "sha256": "ad060644f1d70b4ff4d17c898e0e0b26ece3e12f89bbc61e15c723a71aa00038"
+    },
+    {
+      "id": "127296",
+      "type": "T4b",
+      "instance": "T4b_R",
+      "group": "optic",
+      "nodes": 457,
+      "edges": 456,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/127296",
+      "sha256": "c03668f14402170bedab3607a67472d0a81ecf922df3a94769df31e1a6a66281"
+    },
+    {
+      "id": "118089",
+      "type": "T4c",
+      "instance": "T4c_R",
+      "group": "optic",
+      "nodes": 503,
+      "edges": 502,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/118089",
+      "sha256": "11574f79364dc7f5198fea9987fc9e138554c9d9feaa75f730aff1982aa4c402"
+    },
+    {
+      "id": "107609",
+      "type": "T4d",
+      "instance": "T4d_R",
+      "group": "optic",
+      "nodes": 549,
+      "edges": 548,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/107609",
+      "sha256": "24b51648be066c60e23efaed6d651e24cdc697a52ff3265f4e93397b20220733"
+    },
+    {
+      "id": "124768",
+      "type": "T5a",
+      "instance": "T5a_L",
+      "group": "optic",
+      "nodes": 336,
+      "edges": 335,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/124768",
+      "sha256": "09a9fd2334deaeb1952794cd98eb446f9238dccb320f3aba1e5b450f40917bc1"
+    },
+    {
+      "id": "55824",
+      "type": "T5b",
+      "instance": "T5b_L",
+      "group": "optic",
+      "nodes": 2017,
+      "edges": 2016,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/55824",
+      "sha256": "1acd642a3b0e94316241d6f40cd711257f2cb6992a690449924c05b2a60b712e"
+    },
+    {
+      "id": "185275",
+      "type": "T5c",
+      "instance": "T5c_L",
+      "group": "optic",
+      "nodes": 1985,
+      "edges": 1984,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/185275",
+      "sha256": "b59585702679df28aef86c4077929645fdb98d0e62e0d9d1455dedc6f70cca4b"
+    },
+    {
+      "id": "192855",
+      "type": "T5d",
+      "instance": "T5d_L",
+      "group": "optic",
+      "nodes": 1897,
+      "edges": 1896,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/192855",
+      "sha256": "a6f50e00e49fad27a5e632157de71ae4a3a0f1935a65e5d192a9e5e50cf69b9e"
+    },
+    {
+      "id": "73991",
+      "type": "Tm1",
+      "instance": "Tm1_R",
+      "group": "optic",
+      "nodes": 288,
+      "edges": 287,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/73991",
+      "sha256": "df01f9a46057a7824f73684a119f00c5f53b2728e3d7d81f879f5c1efaf38d2b"
+    },
+    {
+      "id": "51275",
+      "type": "Tm2",
+      "instance": "Tm2_L",
+      "group": "optic",
+      "nodes": 1937,
+      "edges": 1936,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/51275",
+      "sha256": "b4f9722c0d3387084dde20853839fa2f2a757034c25bb3a9722f0a63662f8d5d"
+    },
+    {
+      "id": "533688",
+      "type": "Tm3",
+      "instance": "Tm3_R",
+      "group": "optic",
+      "nodes": 673,
+      "edges": 672,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/533688",
+      "sha256": "57fdb5a9b9192a5b2e816bebb4409b30c4e62c45f6be579deb3866ea45a8262c"
+    },
+    {
+      "id": "12190",
+      "type": "VS",
+      "instance": "VS_L",
+      "group": "optic",
+      "nodes": 1856,
+      "edges": 1855,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12190",
+      "sha256": "4e8452fa0749392ae8c940cfea39f252b524311b0d51dc5ea94b5c54729dd4d9"
+    },
+    {
+      "id": "56757",
+      "type": "Mi1",
+      "instance": "Mi1_L",
+      "group": "optic",
+      "nodes": 348,
+      "edges": 347,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/56757",
+      "sha256": "23240c94e17ff55bb78d6ce2193facf98a3e43cd3d541d102b27f20bb4ddc5eb"
+    },
+    {
+      "id": "90520",
+      "type": "T4a",
+      "instance": "T4a_R",
+      "group": "optic",
+      "nodes": 488,
+      "edges": 486,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/90520",
+      "sha256": "66d3839b4ef20c320eec110c35cd2ec6e2625361ef0dd21c3bc101f90619798f"
+    },
+    {
+      "id": "143059",
+      "type": "T4b",
+      "instance": "T4b_L",
+      "group": "optic",
+      "nodes": 364,
+      "edges": 363,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/143059",
+      "sha256": "808a17f02c413db1cbb3174e22469f34d04ee2b5c5c05046328502601b39572d"
+    },
+    {
+      "id": "98093",
+      "type": "T4c",
+      "instance": "T4c_R",
+      "group": "optic",
+      "nodes": 673,
+      "edges": 672,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/98093",
+      "sha256": "f9668d3de2427380db3f6a9dbac6700d26910d3ed817a7fa31e329e4fa666190"
+    },
+    {
+      "id": "118110",
+      "type": "T4d",
+      "instance": "T4d_R",
+      "group": "optic",
+      "nodes": 340,
+      "edges": 339,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/118110",
+      "sha256": "d484a0e9fe96a534331268426488ac06fa59345cf90dd99c9a86d4505e88378b"
+    },
+    {
+      "id": "114960",
+      "type": "T5a",
+      "instance": "T5a_R",
+      "group": "optic",
+      "nodes": 340,
+      "edges": 339,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/114960",
+      "sha256": "5db8dcdd6ca8602e852ff9f1af4141fd99ee1fe6fcddf575ce1d1569d5546416"
+    },
+    {
+      "id": "137099",
+      "type": "T5b",
+      "instance": "T5b_L",
+      "group": "optic",
+      "nodes": 351,
+      "edges": 350,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/137099",
+      "sha256": "40d6b01e238aa69d1c9bd9c177cd2fcb39f81d9ed60924ef9df5372b7ed45d85"
+    },
+    {
+      "id": "112608",
+      "type": "T5c",
+      "instance": "T5c_R",
+      "group": "optic",
+      "nodes": 451,
+      "edges": 450,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/112608",
+      "sha256": "ac44450f2ec0e1529b8d1b937d19c00151993d16e6c59ad7975193739c75c9c0"
+    },
+    {
+      "id": "153186",
+      "type": "T5d",
+      "instance": "T5d_L",
+      "group": "optic",
+      "nodes": 311,
+      "edges": 310,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/153186",
+      "sha256": "3828a327ffe66c636d04bed3fd52e3bf86c1dd3a72b0125925c05e236dd5436d"
+    },
+    {
+      "id": "64127",
+      "type": "Tm1",
+      "instance": "Tm1_R",
+      "group": "optic",
+      "nodes": 326,
+      "edges": 325,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/64127",
+      "sha256": "1d4b69c3dbab4a273d21385050b91849c3d26ff3054a02c139a61e4d5cd5ac7d"
+    },
+    {
+      "id": "87849",
+      "type": "Tm2",
+      "instance": "Tm2_R",
+      "group": "optic",
+      "nodes": 372,
+      "edges": 371,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/87849",
+      "sha256": "75193ed3e4beec3e511dcb3d5c289ab884eb6992a310ed1a89d19c4133b28172"
+    },
+    {
+      "id": "120368",
+      "type": "Tm3",
+      "instance": "Tm3_L",
+      "group": "optic",
+      "nodes": 434,
+      "edges": 433,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/120368",
+      "sha256": "dc377074a5d6c9bfc4b964fe0f73b4dd3cf231fcdc59e57c3dcfd2392513372b"
+    },
+    {
+      "id": "10073",
+      "type": "VS",
+      "instance": "VS_L",
+      "group": "optic",
+      "nodes": 2675,
+      "edges": 2674,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10073",
+      "sha256": "1ce618a76fab72d5be22202e467274cf787e89f207a53c8abb4816ad3db71a38"
+    },
+    {
+      "id": "35405",
+      "type": "Mi1",
+      "instance": "Mi1_R",
+      "group": "optic",
+      "nodes": 404,
+      "edges": 403,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/35405",
+      "sha256": "ed32ff441f2ee46eed041c626938f109a0aad5c7b308051d1f4dfb047a9d666d"
+    },
+    {
+      "id": "203620",
+      "type": "T4a",
+      "instance": "T4a_L",
+      "group": "optic",
+      "nodes": 253,
+      "edges": 252,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/203620",
+      "sha256": "0acaa0158fcd474e722d199f48ae27d89c33715a83151a16ab5d492030ef3144"
+    },
+    {
+      "id": "162268",
+      "type": "T4b",
+      "instance": "T4b_L",
+      "group": "optic",
+      "nodes": 390,
+      "edges": 389,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/162268",
+      "sha256": "78d1f0933920fcb1468eea7988bec2c974cbe882dc4b358e6698bc997a40284e"
+    },
+    {
+      "id": "516785",
+      "type": "T4c",
+      "instance": "T4c_L",
+      "group": "optic",
+      "nodes": 2015,
+      "edges": 2014,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/516785",
+      "sha256": "15f5b4abc68c1f6eed8479766dee38dd9cd7788edd594ddf73042863002b449b"
+    },
+    {
+      "id": "112681",
+      "type": "T4d",
+      "instance": "T4d_R",
+      "group": "optic",
+      "nodes": 410,
+      "edges": 409,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/112681",
+      "sha256": "914f7680dc7a61bfe3f4cecf1af0d153b70cffba2df43fd07fbec516a63f981a"
+    },
+    {
+      "id": "61925",
+      "type": "T5a",
+      "instance": "T5a_L",
+      "group": "optic",
+      "nodes": 445,
+      "edges": 444,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/61925",
+      "sha256": "28687e4b78773c77e7fad889c9fb52138ccbdfce082904fdaf1916e389786f8c"
+    },
+    {
+      "id": "122388",
+      "type": "T5b",
+      "instance": "T5b_R",
+      "group": "optic",
+      "nodes": 360,
+      "edges": 359,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/122388",
+      "sha256": "6a62563c753bb0fe7f9bcb6fa39a80c1bf5709b727b33df0518e029d01cc5050"
+    },
+    {
+      "id": "140301",
+      "type": "T5c",
+      "instance": "T5c_R",
+      "group": "optic",
+      "nodes": 356,
+      "edges": 355,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/140301",
+      "sha256": "1dbeefcefcfb36c27dbf5160e7f8467dcf9ece36ebad6ff4418740856f89fe0c"
+    },
+    {
+      "id": "199501",
+      "type": "T5d",
+      "instance": "T5d_L",
+      "group": "optic",
+      "nodes": 259,
+      "edges": 258,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/199501",
+      "sha256": "005148843c5747c2b9bf264db3a6f2670b0a96668dc02a7d8b9a6b9d1200ebc2"
+    },
+    {
+      "id": "52813",
+      "type": "Tm1",
+      "instance": "Tm1_R",
+      "group": "optic",
+      "nodes": 296,
+      "edges": 295,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/52813",
+      "sha256": "0c6d35ce5081e3f8cb8e9de2fefda45569e12f171804bb050aebb2bb7b449041"
+    },
+    {
+      "id": "535563",
+      "type": "Tm2",
+      "instance": "Tm2_L",
+      "group": "optic",
+      "nodes": 321,
+      "edges": 320,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/535563",
+      "sha256": "da93ae13ebdf6195e3e085a7fdcaf1c00b88e01b5313d8938263284616e79ce3"
+    },
+    {
+      "id": "90860",
+      "type": "Tm3",
+      "instance": "Tm3_R",
+      "group": "optic",
+      "nodes": 515,
+      "edges": 514,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/90860",
+      "sha256": "37490b518268b5532fab78ed12f321f782dcf3111a26dcfa2c8c53f4526c2999"
+    },
+    {
+      "id": "10012",
+      "type": "VS",
+      "instance": "VS_R",
+      "group": "optic",
+      "nodes": 2367,
+      "edges": 2366,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10012",
+      "sha256": "c6c4c0983b7736903b292ece75f9f4a85cc015b575f704cf47b713942d30c286"
+    },
+    {
+      "id": "42476",
+      "type": "Mi1",
+      "instance": "Mi1_R",
+      "group": "optic",
+      "nodes": 299,
+      "edges": 298,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/42476",
+      "sha256": "50f470bf2b61f57a545de3d3ce897bac80c989e2176f2d7d5fc50a3d6c574f06"
+    },
+    {
+      "id": "100226",
+      "type": "T4a",
+      "instance": "T4a_R",
+      "group": "optic",
+      "nodes": 547,
+      "edges": 546,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/100226",
+      "sha256": "27e028e170d83d01f44662315154a54cd36191c56176f280d2ebbbbf87de8829"
+    },
+    {
+      "id": "99256",
+      "type": "T4b",
+      "instance": "T4b_L",
+      "group": "optic",
+      "nodes": 437,
+      "edges": 436,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/99256",
+      "sha256": "574f4b517c68f708559eb79667ceee6ba3f370b53de2e10f319afa3e0fafa434"
+    },
+    {
+      "id": "193817",
+      "type": "T4c",
+      "instance": "T4c_R",
+      "group": "optic",
+      "nodes": 432,
+      "edges": 431,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/193817",
+      "sha256": "d418372807af9fb97f89736540956578586f738eb9c5fba99e769421b2f1c726"
+    },
+    {
+      "id": "103674",
+      "type": "T4d",
+      "instance": "T4d_L",
+      "group": "optic",
+      "nodes": 465,
+      "edges": 464,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/103674",
+      "sha256": "9c92ec43ed1baa6b49cb3ea31d1fca63ba184b2182932e8c07b14a8251ba1c83"
+    },
+    {
+      "id": "104434",
+      "type": "T5a",
+      "instance": "T5a_L",
+      "group": "optic",
+      "nodes": 404,
+      "edges": 403,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/104434",
+      "sha256": "de965600176adaa04cd03bd04266bf68012881b0b869b68069c7a4a8aadc2fb5"
+    },
+    {
+      "id": "121967",
+      "type": "T5b",
+      "instance": "T5b_R",
+      "group": "optic",
+      "nodes": 277,
+      "edges": 276,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/121967",
+      "sha256": "01192317b295daf8dcd1ae786ccfdf39b26c6e3c871534d5d841b6b78ebb01bf"
+    },
+    {
+      "id": "149692",
+      "type": "T5c",
+      "instance": "T5c_R",
+      "group": "optic",
+      "nodes": 326,
+      "edges": 325,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/149692",
+      "sha256": "cc578887ed55598ef263f6d2c4e92503c98adc94438f27b7d9d7875a6b3ffdeb"
+    },
+    {
+      "id": "581378",
+      "type": "T5d",
+      "instance": "T5d_L",
+      "group": "optic",
+      "nodes": 343,
+      "edges": 342,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/581378",
+      "sha256": "f47950bc0043e39d029d621fd98d2bf246741f321602fa8fdb33d25339d2afb9"
+    },
+    {
+      "id": "542170",
+      "type": "Tm1",
+      "instance": "Tm1_L",
+      "group": "optic",
+      "nodes": 328,
+      "edges": 327,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/542170",
+      "sha256": "3fb962edc6889a1d010a8df92091fee1bc7c1a10fa70c3506dda69b35f722cbf"
+    },
+    {
+      "id": "57988",
+      "type": "Tm2",
+      "instance": "Tm2_R",
+      "group": "optic",
+      "nodes": 400,
+      "edges": 399,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/57988",
+      "sha256": "8548290d67de3f54ec178b26e7bbb95075e2c340429d66df6e61d3cb22a48569"
+    },
+    {
+      "id": "539799",
+      "type": "Tm3",
+      "instance": "Tm3_L",
+      "group": "optic",
+      "nodes": 546,
+      "edges": 545,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/539799",
+      "sha256": "e6f857259b2b81667ee1b0926a3cae6881972b7706aa239af8c1b77466dfb9e5"
+    },
+    {
+      "id": "109321",
+      "type": "KC",
+      "instance": "KC_R",
+      "group": "mushroom",
+      "nodes": 384,
+      "edges": 383,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/109321",
+      "sha256": "a3cb6372640a9ed6008f45c6754dc916a5190dd4ea9944d5025d518f1acae800"
+    },
+    {
+      "id": "53278",
+      "type": "KCa'b'-ap1",
+      "instance": "KCa'b'-ap1_L",
+      "group": "mushroom",
+      "nodes": 932,
+      "edges": 931,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/53278",
+      "sha256": "20e74616a35c52320e10a4f91d46cf3e1988d80505c3ef492395abcbcdd918fe"
+    },
+    {
+      "id": "18031",
+      "type": "KCa'b'-ap2",
+      "instance": "KCa'b'-ap2_R",
+      "group": "mushroom",
+      "nodes": 928,
+      "edges": 927,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/18031",
+      "sha256": "3cd987f2d7b8c8856bde6185dc6c3fbe1f9f3fe0dd3f95b5af6da0ea613361e5"
+    },
+    {
+      "id": "104448",
+      "type": "KCa'b'-m",
+      "instance": "KCa'b'-m_L",
+      "group": "mushroom",
+      "nodes": 1001,
+      "edges": 1000,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/104448",
+      "sha256": "01b9944a713cbcd43e3ec3698588864f33cf25e8275aaa94c194f2ef173ffde5"
+    },
+    {
+      "id": "580598",
+      "type": "KCab-c",
+      "instance": "KCab-c_L",
+      "group": "mushroom",
+      "nodes": 867,
+      "edges": 866,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/580598",
+      "sha256": "ed48deac34efc4b8b1cac4c67896944869c30a64f69de0220bf0f253e56c80c0"
+    },
+    {
+      "id": "103274",
+      "type": "KCab-m",
+      "instance": "KCab-m_R",
+      "group": "mushroom",
+      "nodes": 845,
+      "edges": 844,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/103274",
+      "sha256": "f0ecbf61d4473ae0942bb585f23b3897e7cff1f1d9c6c381e2dc5455cbc993e3"
+    },
+    {
+      "id": "76091",
+      "type": "KCab-p",
+      "instance": "KCab-p_L",
+      "group": "mushroom",
+      "nodes": 1305,
+      "edges": 1304,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/76091",
+      "sha256": "223cfea9fd7713b62ba95b063fc5d9b08ce11ed5c632bc8d77b0e995908d5958"
+    },
+    {
+      "id": "108345",
+      "type": "KCab-s",
+      "instance": "KCab-s_L",
+      "group": "mushroom",
+      "nodes": 1074,
+      "edges": 1073,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/108345",
+      "sha256": "568e41b69731e34bc749ec02df78a9b646f012b67d617142105eae23796aea29"
+    },
+    {
+      "id": "40821",
+      "type": "KCg",
+      "instance": "KCg_L",
+      "group": "mushroom",
+      "nodes": 1754,
+      "edges": 1753,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/40821",
+      "sha256": "f172f933890ef83d69551edcd8c6bf4bcedbc8f81d8445347d70a581a6fac957"
+    },
+    {
+      "id": "80924",
+      "type": "KCg-d",
+      "instance": "KCg-d_L",
+      "group": "mushroom",
+      "nodes": 895,
+      "edges": 894,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/80924",
+      "sha256": "641e4c92bba2ad3bf24282a06d277ab1a0dfede5ea1cb27d900c74828d75540f"
+    },
+    {
+      "id": "78862",
+      "type": "KCg-m",
+      "instance": "KCg-m_L",
+      "group": "mushroom",
+      "nodes": 1003,
+      "edges": 1002,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/78862",
+      "sha256": "79658080bc2b3ec9a99db9095a52049d7e68726bc5278ccace34c21f75deb8c5"
+    },
+    {
+      "id": "18540",
+      "type": "KCg-s1",
+      "instance": "KCg-s1_R",
+      "group": "mushroom",
+      "nodes": 3844,
+      "edges": 3843,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/18540",
+      "sha256": "18c17f41645ae6e8a361935ff9664b77774a11a86b267296360cce0000caf63e"
+    },
+    {
+      "id": "24146",
+      "type": "KCg-s2",
+      "instance": "KCg-s2_L",
+      "group": "mushroom",
+      "nodes": 2394,
+      "edges": 2393,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/24146",
+      "sha256": "33c61d90cf4551e27253e6ef4b0528c8cdebe8a1edd89b63162014cb5c3b225b"
+    },
+    {
+      "id": "79362",
+      "type": "KCg-s3",
+      "instance": "KCg-s3_R",
+      "group": "mushroom",
+      "nodes": 1792,
+      "edges": 1790,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/79362",
+      "sha256": "8b8f39ff3d265848f5747d33f159d35e5b042e27bf6b2093c1b9e558f81e5e02"
+    },
+    {
+      "id": "206739",
+      "type": "KCg-s4",
+      "instance": "KCg-s4_L",
+      "group": "mushroom",
+      "nodes": 1365,
+      "edges": 1364,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/206739",
+      "sha256": "8270d6fce7b0bdb7e811503719e5c08d7b10c3e98c343c3e650b814811b386a1"
+    },
+    {
+      "id": "10013",
+      "type": "MBON01",
+      "instance": "MBON01(y5B'2a)_R",
+      "group": "mushroom",
+      "nodes": 5047,
+      "edges": 5046,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10013",
+      "sha256": "80d929d2aa3b8fb0be2cf8c9dad0917fff160cd9b379a0223590dfdfcc4ac45f",
+      "mesh": {
+        "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/meshes-malecns/single-res-meshes/10013.ngmesh",
+        "vertices": 660826,
+        "triangles": 869925,
+        "bounds": [
+          [
+            319074.28125,
+            62079.9296875,
+            99157.125
+          ],
+          [
+            436343.8125,
+            162389.046875,
+            176598.4375
+          ]
+        ],
+        "sha256": "717c04d69080f005d6f6b57d0d44ff4f449c8fcf056340e049798617488a6345"
+      }
+    },
+    {
+      "id": "522444",
+      "type": "MBON02",
+      "instance": "MBON02(B2B'2a)_R",
+      "group": "mushroom",
+      "nodes": 5914,
+      "edges": 5912,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/522444",
+      "sha256": "3111b3cd5859f824d3a02834cb6f6e67a694494675162ebdc8e5faa8ca4d15dc"
+    },
+    {
+      "id": "519373",
+      "type": "MBON03",
+      "instance": "MBON03(B'2mp)_L",
+      "group": "mushroom",
+      "nodes": 4388,
+      "edges": 4387,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/519373",
+      "sha256": "05c83ea5c27d777865791117158cc896e1374a7468e28dcd1f730142c30c25dd"
+    },
+    {
+      "id": "525780",
+      "type": "MBON04",
+      "instance": "MBON04(B'2mp_bilateral)_R",
+      "group": "mushroom",
+      "nodes": 9172,
+      "edges": 9167,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/525780",
+      "sha256": "c73b8fcd2776c4f4423c4d961e5d10c3bb48c7c06fce5b225173eb07947c364d"
+    },
+    {
+      "id": "10495",
+      "type": "MBON05",
+      "instance": "MBON05(y4>y1y2)_R",
+      "group": "mushroom",
+      "nodes": 5520,
+      "edges": 5519,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10495",
+      "sha256": "8b6b489755882a10f7856211e9b046a45cc594f22db78c35d9ef7dd1340c22c6"
+    },
+    {
+      "id": "12690",
+      "type": "MBON06",
+      "instance": "MBON06(B1>a)_L",
+      "group": "mushroom",
+      "nodes": 4316,
+      "edges": 4315,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12690",
+      "sha256": "e31d483d7f8ece295ea106064a6c6b66b02008cad59f9aaa9da63fe7d8e22a6b"
+    },
+    {
+      "id": "18603",
+      "type": "MBON07",
+      "instance": "MBON07(a1)_L",
+      "group": "mushroom",
+      "nodes": 2763,
+      "edges": 2762,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/18603",
+      "sha256": "445ed26877467d3db7cd158d4660cb3399eb15a5e96ddc66903b594b708f34cf"
+    },
+    {
+      "id": "18713",
+      "type": "MBON09",
+      "instance": "MBON09(y3B'1)_L",
+      "group": "mushroom",
+      "nodes": 5640,
+      "edges": 5639,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/18713",
+      "sha256": "8367246c058e06ea86d49a05d13100cd9606ae408ad75eb1e2ceb1dd0aa11519"
+    },
+    {
+      "id": "133427",
+      "type": "MBON10",
+      "instance": "MBON10(B'1)_R",
+      "group": "mushroom",
+      "nodes": 1737,
+      "edges": 1733,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/133427",
+      "sha256": "c3fb349b94e6902537eace6e453476f39bc1cefd850ad69d73b34352048c6166"
+    },
+    {
+      "id": "10704",
+      "type": "MBON11",
+      "instance": "MBON11(y1pedc>a/B)_L",
+      "group": "mushroom",
+      "nodes": 6718,
+      "edges": 6717,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10704",
+      "sha256": "aa3e6982eee1178ed1e0b19ba804bdc85b6efbdb8d4bf2ca29ac8a11b4511420"
+    },
+    {
+      "id": "521086",
+      "type": "MBON12",
+      "instance": "MBON12(y2a'1)_R",
+      "group": "mushroom",
+      "nodes": 3809,
+      "edges": 3808,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/521086",
+      "sha256": "4470787993aa2c16882ec4962a012eb55e51cc7a5cb76e45c2ba4d139afeb3cc"
+    },
+    {
+      "id": "12726",
+      "type": "MBON13",
+      "instance": "MBON13(a'2)_L",
+      "group": "mushroom",
+      "nodes": 1604,
+      "edges": 1603,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12726",
+      "sha256": "971383e436139ffafa109ccc15e84071e16782ce30b2d090acdcb85327efbe9e"
+    },
+    {
+      "id": "11873",
+      "type": "MBON14",
+      "instance": "MBON14(a3)_L",
+      "group": "mushroom",
+      "nodes": 2040,
+      "edges": 2039,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11873",
+      "sha256": "dd177f96858cdbdaacb226876dc109d2e13b109413bcc64182b2452e5b80bb4e"
+    },
+    {
+      "id": "520395",
+      "type": "MBON15",
+      "instance": "MBON15(a'1)_L",
+      "group": "mushroom",
+      "nodes": 1916,
+      "edges": 1915,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/520395",
+      "sha256": "5fc8511d1edb3ea6e7048e90d4afce12412c95d91bf6fcf5100edfcb10706326"
+    },
+    {
+      "id": "31083",
+      "type": "MBON15-like",
+      "instance": "MBON15-like(a'1a'2)_L",
+      "group": "mushroom",
+      "nodes": 2381,
+      "edges": 2380,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/31083",
+      "sha256": "484319b543a3c3343ea5a327c6c0e820904edd8183185c421f3d2ed769ae914d"
+    },
+    {
+      "id": "520186",
+      "type": "MBON16",
+      "instance": "MBON16(a'3ap)_L",
+      "group": "mushroom",
+      "nodes": 1794,
+      "edges": 1793,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/520186",
+      "sha256": "7d9e2a38fe92e8f76d5560180079b3b6bde5c5416f40ce039d556843f37bd09e"
+    },
+    {
+      "id": "31016",
+      "type": "MBON17",
+      "instance": "MBON17(a'3m)_L",
+      "group": "mushroom",
+      "nodes": 1958,
+      "edges": 1957,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/31016",
+      "sha256": "7816ce4ff1073b94dea032ef84f2594992ca3ea27989e855337ad524c40bf1ac"
+    },
+    {
+      "id": "513391",
+      "type": "MBON17-like",
+      "instance": "MBON17-like(a'2a'3)_R",
+      "group": "mushroom",
+      "nodes": 1982,
+      "edges": 1981,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/513391",
+      "sha256": "19ad1c7ac36ca3b9eb1a3d560f9ea6a3953fc73a63cf706b4b70698a004a49bf"
+    },
+    {
+      "id": "14221",
+      "type": "MBON18",
+      "instance": "MBON18(a2sc)_R",
+      "group": "mushroom",
+      "nodes": 2974,
+      "edges": 2972,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/14221",
+      "sha256": "c51169089b11b0fd1e204357f5500a28da5280817008eda3e8ce53261d1a22dc"
+    },
+    {
+      "id": "36094",
+      "type": "MBON19",
+      "instance": "MBON19(a2p3p)_L",
+      "group": "mushroom",
+      "nodes": 1489,
+      "edges": 1486,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/36094",
+      "sha256": "64c58087002cb9fc6dcd846cff96349b3a1da57730799ab6bd3bae24399aecd6"
+    },
+    {
+      "id": "11145",
+      "type": "MBON20",
+      "instance": "MBON20(y1y2)_L",
+      "group": "mushroom",
+      "nodes": 9707,
+      "edges": 9706,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11145",
+      "sha256": "9b1e3002e9db1ee3e53099cd7e12bf97528a89526f3f82f70aeb6313ca6c2028"
+    },
+    {
+      "id": "523628",
+      "type": "MBON21",
+      "instance": "MBON21(y4y5)_R",
+      "group": "mushroom",
+      "nodes": 7087,
+      "edges": 7086,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/523628",
+      "sha256": "2860d19fed18be1ff8b22e295ace1e6f8dc4c09dc50d9ad3606b61c6c3f1918b"
+    },
+    {
+      "id": "11990",
+      "type": "MBON22",
+      "instance": "MBON22(calyx)_R",
+      "group": "mushroom",
+      "nodes": 6253,
+      "edges": 6252,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11990",
+      "sha256": "6e58cd99b811716d682c8074ec25534404134e4fc19f20790a393141c2da9db5"
+    },
+    {
+      "id": "20835",
+      "type": "MBON23",
+      "instance": "MBON23(a2sp)_R",
+      "group": "mushroom",
+      "nodes": 1873,
+      "edges": 1872,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/20835",
+      "sha256": "1f16e850663fd6228759d266fc6ad08b4906fad08c7ebd6f4db72e8c521d212e"
+    },
+    {
+      "id": "15708",
+      "type": "MBON24",
+      "instance": "MBON24(B2y5)_R",
+      "group": "mushroom",
+      "nodes": 4391,
+      "edges": 4390,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/15708",
+      "sha256": "45e67d7083095e781c5392f223871116460e3c3ed8317aa45174cfe6f135fe1d"
+    },
+    {
+      "id": "394860",
+      "type": "MBON25",
+      "instance": "MBON25(y1y2)_R",
+      "group": "mushroom",
+      "nodes": 1930,
+      "edges": 1929,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/394860",
+      "sha256": "f2682291c7942047ea974da322da617778fec7feed0c246adbd8aff68965e0c2"
+    },
+    {
+      "id": "160320",
+      "type": "MBON25-like",
+      "instance": "MBON25-like(y2)_L",
+      "group": "mushroom",
+      "nodes": 1989,
+      "edges": 1988,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/160320",
+      "sha256": "a74b35451c4fa74326d767f72f42fb087f7200f284e51a90a7720bb6b07ce179"
+    },
+    {
+      "id": "524893",
+      "type": "MBON26",
+      "instance": "MBON26(b'2d)_L",
+      "group": "mushroom",
+      "nodes": 7800,
+      "edges": 7799,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/524893",
+      "sha256": "d5f8517c0236ec129259a97b74dcf042e8912f7b307dedbe4769b8af51eea874"
+    },
+    {
+      "id": "519128",
+      "type": "MBON27",
+      "instance": "MBON27(y5d)_L",
+      "group": "mushroom",
+      "nodes": 5870,
+      "edges": 5869,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/519128",
+      "sha256": "134f9e8db79c5655c7bc6a83ba797829984327caff8439cc7e232c8fc92387d2"
+    },
+    {
+      "id": "28622",
+      "type": "MBON28",
+      "instance": "MBON28(a'3a)_L",
+      "group": "mushroom",
+      "nodes": 2756,
+      "edges": 2754,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/28622",
+      "sha256": "aac5d0288ec574db3f0b5fbd669ab78184ce00f4b76ffcc8154dcc414e9d7682"
+    },
+    {
+      "id": "523987",
+      "type": "MBON29",
+      "instance": "MBON29(y4y5)_R",
+      "group": "mushroom",
+      "nodes": 5685,
+      "edges": 5684,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/523987",
+      "sha256": "af1d9cf1ffff24203526cf498e7bba2d37aa802214ec2abef3c80a4cf5ba5135"
+    },
+    {
+      "id": "513174",
+      "type": "MBON30",
+      "instance": "MBON30(y1y2y3)_L",
+      "group": "mushroom",
+      "nodes": 8914,
+      "edges": 8913,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/513174",
+      "sha256": "205caebc0c78361db122bc67224fbd131770b218bdc187666cf4aacf6d1cb725"
+    },
+    {
+      "id": "10816",
+      "type": "MBON31",
+      "instance": "MBON31(a'1a)_L",
+      "group": "mushroom",
+      "nodes": 7086,
+      "edges": 7085,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10816",
+      "sha256": "f05e7a8dd2d8860804329c8a79c02394e22ccbc901ab917a19799a512fc791b1"
+    },
+    {
+      "id": "519131",
+      "type": "MBON32",
+      "instance": "MBON32(y2)_R",
+      "group": "mushroom",
+      "nodes": 7953,
+      "edges": 7952,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/519131",
+      "sha256": "3fcd08720a64823f86736d943654e5bc5fb266c37b82c2339f308d0bb761374d"
+    },
+    {
+      "id": "11785",
+      "type": "MBON33",
+      "instance": "MBON33(y2y3)_L",
+      "group": "mushroom",
+      "nodes": 8756,
+      "edges": 8754,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11785",
+      "sha256": "8943996bdc7605a7765edf551d90db1f6793a0309ed1dbefbb230507fac59f21"
+    },
+    {
+      "id": "92112",
+      "type": "MBON34",
+      "instance": "MBON34(y2)_R",
+      "group": "mushroom",
+      "nodes": 2568,
+      "edges": 2567,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/92112",
+      "sha256": "9ecdfdeee49f2f08e6020976bc165edd29f2237c3f0b34b8393c17e57d239a4a"
+    },
+    {
+      "id": "508595",
+      "type": "MBON35",
+      "instance": "MBON35(y2)_R",
+      "group": "mushroom",
+      "nodes": 13710,
+      "edges": 13708,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/508595",
+      "sha256": "2ab42fdfc3cb6c7de5044ff139eb44008214ad7916abd1f5e28ca3c10602f005"
+    },
+    {
+      "id": "545375",
+      "type": "KC",
+      "instance": "KC_L_fragment",
+      "group": "mushroom",
+      "nodes": 320,
+      "edges": 319,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/545375",
+      "sha256": "6dbfa87fce70ca0c33ec208766fb76471fa571ee37d23fa7fc65703779804152"
+    },
+    {
+      "id": "77409",
+      "type": "KCa'b'-ap1",
+      "instance": "KCa'b'-ap1_L",
+      "group": "mushroom",
+      "nodes": 951,
+      "edges": 950,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/77409",
+      "sha256": "03d353c2d5029ffee3dc644037fb1cb028233ed9ec55d946ecb90d63ee1b3d7c"
+    },
+    {
+      "id": "75611",
+      "type": "KCa'b'-ap2",
+      "instance": "KCa'b'-ap2_L",
+      "group": "mushroom",
+      "nodes": 1031,
+      "edges": 1030,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/75611",
+      "sha256": "9cbadb5382d4048c6d0cda9c3b20eb37157bfbf81a167aa332421ab9740cff07"
+    },
+    {
+      "id": "58805",
+      "type": "KCa'b'-m",
+      "instance": "KCa'b'-m_R",
+      "group": "mushroom",
+      "nodes": 1139,
+      "edges": 1138,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/58805",
+      "sha256": "73150537c90fd9a963443fe2be713c74b6a7b7ebc686c5fe467c16a27d5b4f40"
+    },
+    {
+      "id": "116246",
+      "type": "KCab-c",
+      "instance": "KCab-c_L",
+      "group": "mushroom",
+      "nodes": 835,
+      "edges": 834,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/116246",
+      "sha256": "88feec858e4db61af1a33edb2988153680236ea466643d85156bc05db7c893e6"
+    },
+    {
+      "id": "133308",
+      "type": "KCab-m",
+      "instance": "KCab-m_L",
+      "group": "mushroom",
+      "nodes": 926,
+      "edges": 925,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/133308",
+      "sha256": "b1f9ebcd8ac29c62c92213cd4daebae2b7b73b8ae50da3a0cf60d6e5f0f69b4f"
+    },
+    {
+      "id": "95591",
+      "type": "KCab-p",
+      "instance": "KCab-p_R",
+      "group": "mushroom",
+      "nodes": 1172,
+      "edges": 1171,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/95591",
+      "sha256": "09525d7fc63f4fee8862cc0dc650073602829cf974723c0ad2cddba0d7c49aa4"
+    },
+    {
+      "id": "73006",
+      "type": "KCab-s",
+      "instance": "KCab-s_R",
+      "group": "mushroom",
+      "nodes": 1283,
+      "edges": 1281,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/73006",
+      "sha256": "642baab0f9358722ee2328628c401a6c9d589f222c7bc5c14f2f995d78c7c3f0"
+    },
+    {
+      "id": "110746",
+      "type": "KCg-d",
+      "instance": "KCg-d_L",
+      "group": "mushroom",
+      "nodes": 913,
+      "edges": 911,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/110746",
+      "sha256": "489f9dea9b1fb34e26707f7ff0907dac748625f0257b46025f4287bb9718cc88"
+    },
+    {
+      "id": "45259",
+      "type": "KCg-m",
+      "instance": "KCg-m_L",
+      "group": "mushroom",
+      "nodes": 1090,
+      "edges": 1089,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/45259",
+      "sha256": "1a46f5b0425a84ad9ae77257f4e0fc41934720ddadb603cd72b6413ee6380b54"
+    },
+    {
+      "id": "21778",
+      "type": "KCg-s1",
+      "instance": "KCg-s1_L",
+      "group": "mushroom",
+      "nodes": 3725,
+      "edges": 3724,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/21778",
+      "sha256": "a46b1a7b5bc59d68d32c1a34a0c18cbb6f2fc051d059ef09c2610d7dfb186d8b"
+    },
+    {
+      "id": "25030",
+      "type": "KCg-s2",
+      "instance": "KCg-s2_R",
+      "group": "mushroom",
+      "nodes": 2118,
+      "edges": 2117,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/25030",
+      "sha256": "030dd97e78947845b230d1500e302fca475c42b844d5990b271f32699a39ae11"
+    },
+    {
+      "id": "44850",
+      "type": "KCg-s3",
+      "instance": "KCg-s3_L",
+      "group": "mushroom",
+      "nodes": 1749,
+      "edges": 1748,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/44850",
+      "sha256": "5dcad17c7b873567ecdb4f0a212b5602301cac479493c4d3b2b6f044fd1b35fd"
+    },
+    {
+      "id": "80128",
+      "type": "KCg-s4",
+      "instance": "KCg-s4_R",
+      "group": "mushroom",
+      "nodes": 982,
+      "edges": 981,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/80128",
+      "sha256": "7b7d6355a1aa99c82c45bec5c7474d04c9a9ee80b55ebab7dfb43548c230d7db"
+    },
+    {
+      "id": "520151",
+      "type": "MBON01",
+      "instance": "MBON01(y5B'2a)_L",
+      "group": "mushroom",
+      "nodes": 4770,
+      "edges": 4769,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/520151",
+      "sha256": "0ea2bb0f61e5a7d645783c1acd45d6fa131d39d823b2ba5a430d284a9f7dfcc3"
+    },
+    {
+      "id": "522749",
+      "type": "MBON02",
+      "instance": "MBON02(B2B'2a)_L",
+      "group": "mushroom",
+      "nodes": 5701,
+      "edges": 5698,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/522749",
+      "sha256": "85a03aef683ab71e11370b08cc003fa0b7914aa6e54aed1cb0e8ba58eb0a61be"
+    },
+    {
+      "id": "521526",
+      "type": "MBON03",
+      "instance": "MBON03(B'2mp)_R",
+      "group": "mushroom",
+      "nodes": 5490,
+      "edges": 5489,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/521526",
+      "sha256": "e1dff888b2785e21395d83a2e06ff26b99ebf18b9df0d0eec1720477087c2f16"
+    },
+    {
+      "id": "530875",
+      "type": "MBON04",
+      "instance": "MBON04(B'2mp_bilateral)_L",
+      "group": "mushroom",
+      "nodes": 8154,
+      "edges": 8149,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/530875",
+      "sha256": "f05f22e272350ef6b2baffc5101988dea54f0ce8ad7321a825e84816c3137f40"
+    },
+    {
+      "id": "519371",
+      "type": "MBON05",
+      "instance": "MBON05(y4>y1y2)_L",
+      "group": "mushroom",
+      "nodes": 5677,
+      "edges": 5676,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/519371",
+      "sha256": "db3cede09362560e8f7b6c2598807d847fe64d015630b21d2b7fc0af16a82158"
+    },
+    {
+      "id": "10079",
+      "type": "MBON06",
+      "instance": "MBON06(B1>a)_R",
+      "group": "mushroom",
+      "nodes": 4417,
+      "edges": 4416,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10079",
+      "sha256": "a9949243271af3247b426a457665b1583196a1bbd401abb6a9747dee8649b7b7"
+    },
+    {
+      "id": "15626",
+      "type": "MBON07",
+      "instance": "MBON07(a1)_L",
+      "group": "mushroom",
+      "nodes": 2793,
+      "edges": 2792,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/15626",
+      "sha256": "57319fe45f465666e80bbc75b083bcc952bb51d467ae0f9897c5dd0b5c242b9d"
+    },
+    {
+      "id": "523060",
+      "type": "MBON09",
+      "instance": "MBON09(y3B'1)_R",
+      "group": "mushroom",
+      "nodes": 5266,
+      "edges": 5264,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/523060",
+      "sha256": "8a438fea28c8901b826ae9c729a1b30fc5f45ddfe82af40c58bc349246464d63"
+    },
+    {
+      "id": "540383",
+      "type": "MBON10",
+      "instance": "MBON10(B'1)_R",
+      "group": "mushroom",
+      "nodes": 1765,
+      "edges": 1763,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/540383",
+      "sha256": "b6b31592273c5aab97f95344a0c77a512efe979d842623750c715611346c81a5"
+    },
+    {
+      "id": "11402",
+      "type": "MBON11",
+      "instance": "MBON11(y1pedc>a/B)_R",
+      "group": "mushroom",
+      "nodes": 7097,
+      "edges": 7096,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11402",
+      "sha256": "a5cfc8192d95d2f7e6bfdc44ff3b4f0ff2d8bde799e9ccf4089363e5be282a7b"
+    },
+    {
+      "id": "13768",
+      "type": "MBON12",
+      "instance": "MBON12(y2a'1)_L",
+      "group": "mushroom",
+      "nodes": 3898,
+      "edges": 3897,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/13768",
+      "sha256": "0759cdaaf41be7ebdc9edc08632da866754c965292cc9088bc9ed253efdb83be"
+    },
+    {
+      "id": "514853",
+      "type": "MBON13",
+      "instance": "MBON13(a'2)_R",
+      "group": "mushroom",
+      "nodes": 1631,
+      "edges": 1630,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/514853",
+      "sha256": "d4c0a42e2d24422cba4ce1b4b43cfb257b911d02a9244d2c10687fa9a32d03f6"
+    },
+    {
+      "id": "10267",
+      "type": "MBON14",
+      "instance": "MBON14(a3)_R",
+      "group": "mushroom",
+      "nodes": 2174,
+      "edges": 2173,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10267",
+      "sha256": "17848e980aa8f6bfd08be217b487d290e916fe469fc9f372f3e1a5c805c6572d"
+    },
+    {
+      "id": "38853",
+      "type": "MBON15",
+      "instance": "MBON15(a'1)_L",
+      "group": "mushroom",
+      "nodes": 2490,
+      "edges": 2489,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/38853",
+      "sha256": "31469b08e88dd042c8cb9ca42b151ebfc3a040bc2bc9826e891371e13c711345"
+    },
+    {
+      "id": "38859",
+      "type": "MBON15-like",
+      "instance": "MBON15-like(a'1a'2)_L",
+      "group": "mushroom",
+      "nodes": 2223,
+      "edges": 2221,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/38859",
+      "sha256": "199870a232900dd72757799cd89b468d9aa566ab0a85f23a8dd0b2383ec07325"
+    },
+    {
+      "id": "562782",
+      "type": "MBON16",
+      "instance": "MBON16(a'3ap)_R",
+      "group": "mushroom",
+      "nodes": 1942,
+      "edges": 1939,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/562782",
+      "sha256": "e79de3fd0bfc5a198acbb767bceeabc09af296e5dbaaa1634fd88f401cf4f6e7"
+    },
+    {
+      "id": "41692",
+      "type": "MBON17",
+      "instance": "MBON17(a'3m)_R",
+      "group": "mushroom",
+      "nodes": 1989,
+      "edges": 1988,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/41692",
+      "sha256": "95c0f159b36b17ac874965cad1c373a89e312da42f693d953b5a2fa63a39d49a"
+    },
+    {
+      "id": "513387",
+      "type": "MBON17-like",
+      "instance": "MBON17-like(a'2a'3)_L",
+      "group": "mushroom",
+      "nodes": 1896,
+      "edges": 1891,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/513387",
+      "sha256": "4685e1692c9207b511f2e38ebb272bc2e1775fef695d11df814c8aaa233181f7"
+    },
+    {
+      "id": "512788",
+      "type": "MBON18",
+      "instance": "MBON18(a2sc)_L",
+      "group": "mushroom",
+      "nodes": 2657,
+      "edges": 2656,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/512788",
+      "sha256": "27435a53a2288dbb07cf124511d3090fdb004041f54d36f9af5bc7e14da58f0b"
+    },
+    {
+      "id": "47551",
+      "type": "MBON19",
+      "instance": "MBON19(a2p3p)_L",
+      "group": "mushroom",
+      "nodes": 1354,
+      "edges": 1353,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/47551",
+      "sha256": "2ceb0fe84bee3853e2247090c9ab6ff6196b8929cb949efa4ddbe3e99d4d0035"
+    },
+    {
+      "id": "10804",
+      "type": "MBON20",
+      "instance": "MBON20(y1y2)_R",
+      "group": "mushroom",
+      "nodes": 8702,
+      "edges": 8701,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10804",
+      "sha256": "0d11a0e6c2568c9ba3cd171b4b08bba0be8f0e5189066bf4962d9c902b58346f"
+    },
+    {
+      "id": "10826",
+      "type": "MBON21",
+      "instance": "MBON21(y4y5)_L",
+      "group": "mushroom",
+      "nodes": 6857,
+      "edges": 6854,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10826",
+      "sha256": "efa21240e0efb2895ee3a7852de7e43edd921014daa79eebeccd6abbeedfa9f9"
+    },
+    {
+      "id": "12918",
+      "type": "MBON22",
+      "instance": "MBON22(calyx)_L",
+      "group": "mushroom",
+      "nodes": 5285,
+      "edges": 5284,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12918",
+      "sha256": "25b253b0f1c785ac1ee855c7e3991dd058ca7a6a7ceb957571dc257127295639"
+    },
+    {
+      "id": "512789",
+      "type": "MBON23",
+      "instance": "MBON23(a2sp)_L",
+      "group": "mushroom",
+      "nodes": 1767,
+      "edges": 1766,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/512789",
+      "sha256": "558211b1ec2c955a552630080c20f6d4ab7dc18e36a78f11203a35b3871638fa"
+    },
+    {
+      "id": "18406",
+      "type": "MBON24",
+      "instance": "MBON24(B2y5)_L",
+      "group": "mushroom",
+      "nodes": 4382,
+      "edges": 4381,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/18406",
+      "sha256": "e1be12779398f3b55eecb9361b93419565ea220ce8ebd4d9b17a473539d7ff3e"
+    },
+    {
+      "id": "87077",
+      "type": "MBON25",
+      "instance": "MBON25(y1y2)_L",
+      "group": "mushroom",
+      "nodes": 2115,
+      "edges": 2114,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/87077",
+      "sha256": "8c11436df447cc1446746f2da2a8c35a36497dad6c8c88f16d1d755cfa18720c"
+    },
+    {
+      "id": "110448",
+      "type": "MBON25-like",
+      "instance": "MBON25-like(y1y2)_L",
+      "group": "mushroom",
+      "nodes": 1838,
+      "edges": 1835,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/110448",
+      "sha256": "4bb215b1a5e5afc248efb77a4080b017edfd64e2f6d414cd0da4a03ce15496b0"
+    },
+    {
+      "id": "11176",
+      "type": "MBON26",
+      "instance": "MBON26(b'2d)_R",
+      "group": "mushroom",
+      "nodes": 7384,
+      "edges": 7383,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11176",
+      "sha256": "6ee1fae069a0e2adb6099ef651324876030081613b6b2af1bb9095861d7b26f4"
+    },
+    {
+      "id": "515034",
+      "type": "MBON27",
+      "instance": "MBON27(y5d)_R",
+      "group": "mushroom",
+      "nodes": 5508,
+      "edges": 5507,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/515034",
+      "sha256": "c3c228be2f25b5bec5685be14830fd87bf853880984fbc89500cdda31d0e5730"
+    },
+    {
+      "id": "26485",
+      "type": "MBON28",
+      "instance": "MBON28(a'3a)_R",
+      "group": "mushroom",
+      "nodes": 2805,
+      "edges": 2804,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/26485",
+      "sha256": "fa8637cd834aae4176cdb889da02953cf653f2531a47e6793cc0e11bcee5b281"
+    },
+    {
+      "id": "13064",
+      "type": "DA1_lPN",
+      "instance": "DA1_lPN_R",
+      "group": "olfactory",
+      "nodes": 2357,
+      "edges": 2356,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/13064",
+      "sha256": "b70776290851b62b4f54801af78cb450e75ac8b23f4762a44c2f844c4c3c50af"
+    },
+    {
+      "id": "13209",
+      "type": "DA1_vPN",
+      "instance": "DA1_vPN_R",
+      "group": "olfactory",
+      "nodes": 10171,
+      "edges": 10170,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/13209",
+      "sha256": "92a0c043b9728ff21f66e676a312d145581c5f87ad5bbe89f5457bdaf08a23c1"
+    },
+    {
+      "id": "34301",
+      "type": "DA2_lPN",
+      "instance": "DA2_lPN_R",
+      "group": "olfactory",
+      "nodes": 2581,
+      "edges": 2580,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/34301",
+      "sha256": "803978a6d214c6e4164fef25036721165871781e7ac36789158dd69945f948f3"
+    },
+    {
+      "id": "23494",
+      "type": "DA3_adPN",
+      "instance": "DA3_adPN_L",
+      "group": "olfactory",
+      "nodes": 1406,
+      "edges": 1405,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/23494",
+      "sha256": "9114d1fa8cf1ea09d7fc17af7c46e9f0cc5a05278ed1f55d3064b5596af1c3aa"
+    },
+    {
+      "id": "14530",
+      "type": "DA4l_adPN",
+      "instance": "DA4l_adPN_R",
+      "group": "olfactory",
+      "nodes": 983,
+      "edges": 981,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/14530",
+      "sha256": "1b246672ae057bf852ecd458e3941c5a8952b47727030b0592c82df18dcefcae"
+    },
+    {
+      "id": "519850",
+      "type": "DA4m_adPN",
+      "instance": "DA4m_adPN_R",
+      "group": "olfactory",
+      "nodes": 2355,
+      "edges": 2354,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/519850",
+      "sha256": "1fd367f2b6bcacbb7f835652cb96ab23a96ebc627df80fed36e394c909b2f67d"
+    },
+    {
+      "id": "10569",
+      "type": "DC1_adPN",
+      "instance": "DC1_adPN_R",
+      "group": "olfactory",
+      "nodes": 1506,
+      "edges": 1505,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10569",
+      "sha256": "1770f91a0e90713762d756ac57b46fcce68ab53e3f19c2db1c1ef3734a555d6b"
+    },
+    {
+      "id": "17484",
+      "type": "DC2_adPN",
+      "instance": "DC2_adPN_R",
+      "group": "olfactory",
+      "nodes": 1195,
+      "edges": 1194,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/17484",
+      "sha256": "ac9102c30debc87df989774e758d4661c0ef8938522a44990785c5e451a6fda5"
+    },
+    {
+      "id": "13470",
+      "type": "DC3_adPN",
+      "instance": "DC3_adPN_L",
+      "group": "olfactory",
+      "nodes": 1380,
+      "edges": 1379,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/13470",
+      "sha256": "71d659d0ca52e12d194c0c1fd7272ce3db1c4e5a009b4c61a8ae2c342dc5dc13"
+    },
+    {
+      "id": "12031",
+      "type": "DC4_adPN",
+      "instance": "DC4_adPN_L",
+      "group": "olfactory",
+      "nodes": 964,
+      "edges": 963,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12031",
+      "sha256": "08be4bc233634cf136173347365a16509ba9c38709b5bf423d8477f97624f67d"
+    },
+    {
+      "id": "77710",
+      "type": "DC4_vPN",
+      "instance": "DC4_vPN_L",
+      "group": "olfactory",
+      "nodes": 1648,
+      "edges": 1647,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/77710",
+      "sha256": "c1cdc2b8fec529bc3ee0224f4ccd269825f535cd4611e054bdac5980634cf449"
+    },
+    {
+      "id": "520003",
+      "type": "DL1_adPN",
+      "instance": "DL1_adPN_R",
+      "group": "olfactory",
+      "nodes": 1256,
+      "edges": 1255,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/520003",
+      "sha256": "4125cf6246ce01a7399d32608893e5a143cadc2593052ae27f112210eb1b5523"
+    },
+    {
+      "id": "512883",
+      "type": "DL2d_adPN",
+      "instance": "DL2d_adPN_R",
+      "group": "olfactory",
+      "nodes": 1065,
+      "edges": 1062,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/512883",
+      "sha256": "136d132bdda83e931d9d254d5b7d6781317afc990a461a4f54d69fac9533831b"
+    },
+    {
+      "id": "67900",
+      "type": "DL2d_vPN",
+      "instance": "DL2d_vPN_R",
+      "group": "olfactory",
+      "nodes": 1357,
+      "edges": 1356,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/67900",
+      "sha256": "23442f52368b0af85e92eb73472ab56bbd9619e5a43835fe8076d704e792a17f"
+    },
+    {
+      "id": "29176",
+      "type": "DL2v_adPN",
+      "instance": "DL2v_adPN_R",
+      "group": "olfactory",
+      "nodes": 1541,
+      "edges": 1539,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/29176",
+      "sha256": "c63ed710f9e3fb85d52e39fbeac3eb76cc5780b61acdd5b13a2bbbe46cef3c2d"
+    },
+    {
+      "id": "27333",
+      "type": "DL3_lPN",
+      "instance": "DL3_lPN_L",
+      "group": "olfactory",
+      "nodes": 1174,
+      "edges": 1173,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/27333",
+      "sha256": "fb1ee7374ea840351c30c0d196bb12a4c8c7156593ceb7e628d1b569157fe938"
+    },
+    {
+      "id": "11514",
+      "type": "DL4_adPN",
+      "instance": "DL4_adPN_R",
+      "group": "olfactory",
+      "nodes": 1024,
+      "edges": 1023,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11514",
+      "sha256": "b73ad33a4706198f3e766165c3f3c811b4808f152f9c6a5e172a1be7ae9ecae6"
+    },
+    {
+      "id": "525105",
+      "type": "DL5_adPN",
+      "instance": "DL5_adPN_R",
+      "group": "olfactory",
+      "nodes": 992,
+      "edges": 991,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/525105",
+      "sha256": "caf512c9a010af853c918a5764499f4a6bfc52981e157b4a2cee0c9cd2c6bd86"
+    },
+    {
+      "id": "10176",
+      "type": "DM1_lPN",
+      "instance": "DM1_lPN_R",
+      "group": "olfactory",
+      "nodes": 1613,
+      "edges": 1612,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10176",
+      "sha256": "41054dc0dff52c9340770e5083642b73d0e83d9e94d18efd2dd3895faa880c82"
+    },
+    {
+      "id": "12171",
+      "type": "DM2_lPN",
+      "instance": "DM2_lPN_R",
+      "group": "olfactory",
+      "nodes": 1071,
+      "edges": 1070,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12171",
+      "sha256": "bee936a46d552bc27f9abc2b6c522e32c9128c1ebfead3a492b72b7964ebd4dd"
+    },
+    {
+      "id": "11469",
+      "type": "DM3_adPN",
+      "instance": "DM3_adPN_R",
+      "group": "olfactory",
+      "nodes": 1280,
+      "edges": 1279,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11469",
+      "sha256": "d8d0a7be0c607a970e03896d74fc572353a2e0d7e6c6746bf6619ef42e0f574e"
+    },
+    {
+      "id": "105426",
+      "type": "DM3_vPN",
+      "instance": "DM3_vPN_L",
+      "group": "olfactory",
+      "nodes": 1367,
+      "edges": 1366,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/105426",
+      "sha256": "544b262721225f2a712dd5df6ff4e7a992b4dce42c9bab807521fe2cefb5d06d"
+    },
+    {
+      "id": "10670",
+      "type": "DM4_adPN",
+      "instance": "DM4_adPN_L",
+      "group": "olfactory",
+      "nodes": 1181,
+      "edges": 1180,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10670",
+      "sha256": "26767ec05464a630098c05aabd7bfcf1b8c62df95872f88f29d783e28b4213de"
+    },
+    {
+      "id": "71476",
+      "type": "DM4_vPN",
+      "instance": "DM4_vPN_L",
+      "group": "olfactory",
+      "nodes": 1471,
+      "edges": 1470,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/71476",
+      "sha256": "567b33a4f5883d3e521280851e7da731920698dac866d3fdeb8c1d0c8e0cef2f"
+    },
+    {
+      "id": "17052",
+      "type": "DM5_lPN",
+      "instance": "DM5_lPN_L",
+      "group": "olfactory",
+      "nodes": 1353,
+      "edges": 1352,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/17052",
+      "sha256": "404e84fd14267f8924cf8caf771d81b01d9786740e054533abdd2d80cbf4c9d7"
+    },
+    {
+      "id": "519572",
+      "type": "DM6_adPN",
+      "instance": "DM6_adPN_R",
+      "group": "olfactory",
+      "nodes": 1183,
+      "edges": 1182,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/519572",
+      "sha256": "157bce60d9c2f91ea7726a043615243ad810bbbf280b7f535dd974afcfc5cc61"
+    },
+    {
+      "id": "10423",
+      "type": "DP1l_adPN",
+      "instance": "DP1l_adPN_R",
+      "group": "olfactory",
+      "nodes": 1427,
+      "edges": 1426,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10423",
+      "sha256": "20fe79d78ede9fe7bef083909c0bf7c6d3326302a16a9824d4fab46d2a72d01f"
+    },
+    {
+      "id": "61941",
+      "type": "DP1l_vPN",
+      "instance": "DP1l_vPN_R",
+      "group": "olfactory",
+      "nodes": 1310,
+      "edges": 1309,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/61941",
+      "sha256": "bb7f09221bc4704e4d868212622c59c5ef764570e06337d01486f7d2512bfa5f"
+    },
+    {
+      "id": "10084",
+      "type": "DP1m_adPN",
+      "instance": "DP1m_adPN_R",
+      "group": "olfactory",
+      "nodes": 2325,
+      "edges": 2324,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10084",
+      "sha256": "d4e37b65bcfc0f78e3f2afdeaa9060049d2d767eba2ff9d9ceaa4db5adcecb2a"
+    },
+    {
+      "id": "515440",
+      "type": "DP1m_vPN",
+      "instance": "DP1m_vPN_L",
+      "group": "olfactory",
+      "nodes": 1436,
+      "edges": 1435,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/515440",
+      "sha256": "d629a6b9ede8543b0f351ac1a845bc39c3c1c33675048795b716353b2e4d0796"
+    },
+    {
+      "id": "12387",
+      "type": "D_adPN",
+      "instance": "D_adPN_R",
+      "group": "olfactory",
+      "nodes": 1001,
+      "edges": 998,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12387",
+      "sha256": "d7f9adeefcdbd56a5a18fdc396b56556c8600f41cb59a6f7c3e7260a73eb6d7f"
+    },
+    {
+      "id": "11471",
+      "type": "VA1d_adPN",
+      "instance": "VA1d_adPN_L",
+      "group": "olfactory",
+      "nodes": 1342,
+      "edges": 1341,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11471",
+      "sha256": "e12cb23c261a217691832a7a9fd732a64e84993359bbf03aede82decd4cfaa86"
+    },
+    {
+      "id": "15276",
+      "type": "VA1d_vPN",
+      "instance": "VA1d_vPN_L",
+      "group": "olfactory",
+      "nodes": 2049,
+      "edges": 2048,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/15276",
+      "sha256": "c1e5ad864c23b71a3bea94f912594ae8d9795f45d3061630223fcf2de2251e4d"
+    },
+    {
+      "id": "12667",
+      "type": "VA1v_adPN",
+      "instance": "VA1v_adPN_R",
+      "group": "olfactory",
+      "nodes": 2213,
+      "edges": 2212,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12667",
+      "sha256": "2800de8dc8263e2e28244a3ee81b2f96994e1e123e0e9ef882ece94e9b64b7ba"
+    },
+    {
+      "id": "12711",
+      "type": "VA1v_vPN",
+      "instance": "VA1v_vPN_L",
+      "group": "olfactory",
+      "nodes": 1823,
+      "edges": 1822,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12711",
+      "sha256": "bf69811ce19ea987de194465c826a8535b83008ceb9ff1f7e21545aac2ac84aa"
+    },
+    {
+      "id": "10561",
+      "type": "VA2_adPN",
+      "instance": "VA2_adPN_L",
+      "group": "olfactory",
+      "nodes": 1479,
+      "edges": 1478,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10561",
+      "sha256": "429422f08bea29b040caa3da27ebad1b76114f3e4cb187f7ce0f71de0ae6eb44"
+    },
+    {
+      "id": "12509",
+      "type": "VA3_adPN",
+      "instance": "VA3_adPN_L",
+      "group": "olfactory",
+      "nodes": 1349,
+      "edges": 1348,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12509",
+      "sha256": "d0a77f578741593a2b3d274b816543c501d28d997527938618443f57f2877647"
+    },
+    {
+      "id": "10996",
+      "type": "VA4_lPN",
+      "instance": "VA4_lPN_R",
+      "group": "olfactory",
+      "nodes": 1140,
+      "edges": 1139,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10996",
+      "sha256": "8da2a242724ff8c877cf0c3f0c6450447f9fd175d6b10890ec257b9013852faf"
+    },
+    {
+      "id": "10653",
+      "type": "VA5_lPN",
+      "instance": "VA5_lPN_L",
+      "group": "olfactory",
+      "nodes": 1092,
+      "edges": 1091,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10653",
+      "sha256": "faa9fed9cd791532fe5dbe7fb2e92af9abb2a003af50c3aa2076c2ec84b84a39"
+    },
+    {
+      "id": "527577",
+      "type": "VA6_adPN",
+      "instance": "VA6_adPN_R",
+      "group": "olfactory",
+      "nodes": 1106,
+      "edges": 1105,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/527577",
+      "sha256": "3c88102de2e04d340a31e6cad94c4d4a3442596c18270d62a9c516db642a98f8"
+    },
+    {
+      "id": "529665",
+      "type": "VA7l_adPN",
+      "instance": "VA7l_adPN_L",
+      "group": "olfactory",
+      "nodes": 1162,
+      "edges": 1161,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/529665",
+      "sha256": "fdb863748b7291d78421ad0f823346c75fc0efa94f62596271f93f9da0b562be"
+    },
+    {
+      "id": "16610",
+      "type": "VA7m_lPN",
+      "instance": "VA7m_lPN_R",
+      "group": "olfactory",
+      "nodes": 1054,
+      "edges": 1053,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/16610",
+      "sha256": "628a36aa1b55caeda0533b7cd7c9b246f7ba09fbf846754037995bd190133be9"
+    },
+    {
+      "id": "10904",
+      "type": "VC1_lPN",
+      "instance": "VC1_lPN_R",
+      "group": "olfactory",
+      "nodes": 1028,
+      "edges": 1027,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10904",
+      "sha256": "8a733cc657a8dea0be9c675f792c3a3df04e648b6c5f8016cf0e76d55092cdf5"
+    },
+    {
+      "id": "10756",
+      "type": "VC2_lPN",
+      "instance": "VC2_lPN_R",
+      "group": "olfactory",
+      "nodes": 1220,
+      "edges": 1219,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10756",
+      "sha256": "87e13a1cb5589b9795ead5f349cfc1aef3e1e749cf1314bdd9b951f6f31065de"
+    },
+    {
+      "id": "17650",
+      "type": "VC3_adPN",
+      "instance": "VC3_adPN_R",
+      "group": "olfactory",
+      "nodes": 1125,
+      "edges": 1123,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/17650",
+      "sha256": "07fb15280c133032cb9434e37f57b4b41a328db55e4f2186d291fcb595f20072"
+    },
+    {
+      "id": "16433",
+      "type": "VC4_adPN",
+      "instance": "VC4_adPN_L",
+      "group": "olfactory",
+      "nodes": 1248,
+      "edges": 1247,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/16433",
+      "sha256": "b3a50a80ba20def60570c29a91eb2a0a01d8b447a75318ffadaef17c12801e4b"
+    },
+    {
+      "id": "516322",
+      "type": "VL1_vPN",
+      "instance": "VL1_vPN_L",
+      "group": "olfactory",
+      "nodes": 2308,
+      "edges": 2307,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/516322",
+      "sha256": "dc664614829822601300d7ead68342c3b18caef128a4ca0e80950f7d8e09143b"
+    },
+    {
+      "id": "10039",
+      "type": "VL2a_adPN",
+      "instance": "VL2a_adPN_R",
+      "group": "olfactory",
+      "nodes": 1123,
+      "edges": 1122,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10039",
+      "sha256": "974389da40fc4f4ee465e0df7edc54588e0834b890a67d2485240a715c4962f8",
+      "mesh": {
+        "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/meshes-malecns/single-res-meshes/10039.ngmesh",
+        "vertices": 593348,
+        "triangles": 797800,
+        "bounds": [
+          [
+            190094.84375,
+            91726.8671875,
+            89298.734375
+          ],
+          [
+            357703.375,
+            263267.90625,
+            285068.875
+          ]
+        ],
+        "sha256": "daa718e570cb87fdc49c458426cb1d08e643462220d3d3f3b7377d2155d6b96a"
+      }
+    },
+    {
+      "id": "33165",
+      "type": "VL2a_vPN",
+      "instance": "VL2a_vPN_R",
+      "group": "olfactory",
+      "nodes": 1592,
+      "edges": 1591,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/33165",
+      "sha256": "c4136caf63d7133c9236d09c6d503998ade81db34b1e1ea3829f770e93a78fc3"
+    },
+    {
+      "id": "10321",
+      "type": "VL2p_adPN",
+      "instance": "VL2p_adPN_L",
+      "group": "olfactory",
+      "nodes": 1294,
+      "edges": 1293,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10321",
+      "sha256": "a138d4d4fde6edbebe038a323537a8490927b25eb9787c2fadaf74ae383ea35c"
+    },
+    {
+      "id": "31397",
+      "type": "VL2p_vPN",
+      "instance": "VL2p_vPN_L",
+      "group": "olfactory",
+      "nodes": 1716,
+      "edges": 1715,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/31397",
+      "sha256": "c7cb2c275fec1d355b9cc44d56835e49a7165c564db6e5acbe3a92341dd4f9e5"
+    },
+    {
+      "id": "11703",
+      "type": "VM1_lPN",
+      "instance": "VM1_lPN_L",
+      "group": "olfactory",
+      "nodes": 811,
+      "edges": 810,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11703",
+      "sha256": "b6ebf367ee1e2acb07026dd3130973bafe4e7f828d05f47b7742ea3379ca3e23"
+    },
+    {
+      "id": "14665",
+      "type": "VM2_adPN",
+      "instance": "VM2_adPN_L",
+      "group": "olfactory",
+      "nodes": 1088,
+      "edges": 1087,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/14665",
+      "sha256": "8f427f5d8dcd357d53c3b2398cd34a149e82667c1c792e072af6e77dba66433e"
+    },
+    {
+      "id": "12057",
+      "type": "VM3_adPN",
+      "instance": "VM3_adPN_L",
+      "group": "olfactory",
+      "nodes": 1141,
+      "edges": 1140,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12057",
+      "sha256": "7222ae5ff1b0c8b81002288226f475b6bcbaa16a9498074dae8e692ddac28aa8"
+    },
+    {
+      "id": "16141",
+      "type": "VM4_adPN",
+      "instance": "VM4_adPN_R",
+      "group": "olfactory",
+      "nodes": 1127,
+      "edges": 1126,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/16141",
+      "sha256": "e78abc41fcaa325b55ded244ff5a0d8e48cb1161b64e98b247d7fe77c59646fe"
+    },
+    {
+      "id": "22494",
+      "type": "VM5d_adPN",
+      "instance": "VM5d_adPN_L",
+      "group": "olfactory",
+      "nodes": 1244,
+      "edges": 1243,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/22494",
+      "sha256": "9ddcf81e9c4efb41c1546f91269e8ee7cf804aad5035a58b83a985f66f337c15"
+    },
+    {
+      "id": "14427",
+      "type": "VM5v_adPN",
+      "instance": "VM5v_adPN_L",
+      "group": "olfactory",
+      "nodes": 1152,
+      "edges": 1151,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/14427",
+      "sha256": "81af5b9064abc2a77fc90b44b53a93dac5c838a94042391cbbf16b6384be0b86"
+    },
+    {
+      "id": "10429",
+      "type": "VM6_adPN",
+      "instance": "VM6_adPN_L",
+      "group": "olfactory",
+      "nodes": 2071,
+      "edges": 2070,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10429",
+      "sha256": "9648b56ee793dce633ff78463617a719660fe3243062c21ed2b992301df28239"
+    },
+    {
+      "id": "511807",
+      "type": "VM7d_adPN",
+      "instance": "VM7d_adPN_R",
+      "group": "olfactory",
+      "nodes": 1182,
+      "edges": 1181,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/511807",
+      "sha256": "ac64a48976ba38b8df2ada846e0070190866867dc8341d042854eec0efa37dfb"
+    },
+    {
+      "id": "13386",
+      "type": "VM7v_adPN",
+      "instance": "VM7v_adPN_R",
+      "group": "olfactory",
+      "nodes": 1122,
+      "edges": 1121,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/13386",
+      "sha256": "ddbe8895de35db613f022a835260cdf460ef9e7441c8d18bcdafc810fc7e39da"
+    },
+    {
+      "id": "75897",
+      "type": "VP2+_adPN",
+      "instance": "VP2+_adPN_L",
+      "group": "olfactory",
+      "nodes": 2316,
+      "edges": 2315,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/75897",
+      "sha256": "00ea1abc5a7a1a5f6e344fa812e522ce92143b904cc19ea80d57d1f9ed5d990b"
+    },
+    {
+      "id": "10736",
+      "type": "VP2_adPN",
+      "instance": "VP2_adPN_L",
+      "group": "olfactory",
+      "nodes": 1658,
+      "edges": 1657,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10736",
+      "sha256": "76dae5b3e6f772722e5c94f101665dd2b7c2691364e0dc4fc66c9ab2ee1f0f26"
+    },
+    {
+      "id": "17722",
+      "type": "VP3+_vPN",
+      "instance": "VP3+_vPN_R",
+      "group": "olfactory",
+      "nodes": 1036,
+      "edges": 1035,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/17722",
+      "sha256": "2666a6e9665f9726a41fbd51168923f4485b0ee631eab0be59829fc700711e19"
+    },
+    {
+      "id": "525064",
+      "type": "VP4+_vPN",
+      "instance": "VP4+_vPN_R",
+      "group": "olfactory",
+      "nodes": 2192,
+      "edges": 2191,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/525064",
+      "sha256": "4d0f06692d49cc7818eb9d3e03c1fad33c027eddd5604a9fbbf21835f9ad87d3"
+    },
+    {
+      "id": "15133",
+      "type": "VP4_vPN",
+      "instance": "VP4_vPN_L",
+      "group": "olfactory",
+      "nodes": 2185,
+      "edges": 2184,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/15133",
+      "sha256": "02f55b81c0377385dd947c8f142d7c94a1510692bf0d8a35527d6a0da8605ac3"
+    },
+    {
+      "id": "516433",
+      "type": "VP5+Z_adPN",
+      "instance": "VP5+Z_adPN_R",
+      "group": "olfactory",
+      "nodes": 4947,
+      "edges": 4946,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/516433",
+      "sha256": "dd8e31383e215a83d036160d3616f94c3f179e284379f8820e644034692e0a9d"
+    },
+    {
+      "id": "11721",
+      "type": "DA1_lPN",
+      "instance": "DA1_lPN_L",
+      "group": "olfactory",
+      "nodes": 1832,
+      "edges": 1831,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11721",
+      "sha256": "e44cac6662102a5e106ce38e52407a55fb10cdcb281eb3e2e675e72f9f50c2d4"
+    },
+    {
+      "id": "12603",
+      "type": "DA1_vPN",
+      "instance": "DA1_vPN_L",
+      "group": "olfactory",
+      "nodes": 3497,
+      "edges": 3496,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12603",
+      "sha256": "3242bbc3145198743648a20607bf44b4966dff709c0537adf19cc2c6f7b7d37b"
+    },
+    {
+      "id": "20105",
+      "type": "DA2_lPN",
+      "instance": "DA2_lPN_L",
+      "group": "olfactory",
+      "nodes": 1019,
+      "edges": 1018,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/20105",
+      "sha256": "9b4679f615cf5e4d531af53f87c1e55e279c75046fe540ff4f8b8566a6c86199"
+    },
+    {
+      "id": "515549",
+      "type": "DA3_adPN",
+      "instance": "DA3_adPN_R",
+      "group": "olfactory",
+      "nodes": 1229,
+      "edges": 1228,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/515549",
+      "sha256": "36d2d93c96680ec93e3b2ed3499a5aed504c1a70a7b750fc8735c576cceb64e2"
+    },
+    {
+      "id": "12840",
+      "type": "DA4l_adPN",
+      "instance": "DA4l_adPN_L",
+      "group": "olfactory",
+      "nodes": 1100,
+      "edges": 1099,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12840",
+      "sha256": "d749983957fc5a9ce805256696751ffd26d604a6c080a7340f330c1960c35181"
+    },
+    {
+      "id": "11135",
+      "type": "DA4m_adPN",
+      "instance": "DA4m_adPN_L",
+      "group": "olfactory",
+      "nodes": 2237,
+      "edges": 2236,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11135",
+      "sha256": "c9e2ea0194a1d814b767ad718e44dac1470079cb497da98d5e22f100a2b789aa"
+    },
+    {
+      "id": "10470",
+      "type": "DC1_adPN",
+      "instance": "DC1_adPN_L",
+      "group": "olfactory",
+      "nodes": 1392,
+      "edges": 1391,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10470",
+      "sha256": "c06a6c6fbd2ae104b753793a0ec1ef06a2368a27a90e2bfb1675fcc3eaa316fe"
+    },
+    {
+      "id": "11624",
+      "type": "DC2_adPN",
+      "instance": "DC2_adPN_R",
+      "group": "olfactory",
+      "nodes": 1186,
+      "edges": 1185,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11624",
+      "sha256": "69c4d39a6f2e7837b9eef38fb19309ae11603d832875e5facda2e10dc9e4e64d"
+    },
+    {
+      "id": "12309",
+      "type": "DC3_adPN",
+      "instance": "DC3_adPN_R",
+      "group": "olfactory",
+      "nodes": 1188,
+      "edges": 1187,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12309",
+      "sha256": "aa1049d42c1fd5629c4a972049fe0c2965e1ffcc1ac340536b3196faa4e72436"
+    },
+    {
+      "id": "12160",
+      "type": "DC4_adPN",
+      "instance": "DC4_adPN_R",
+      "group": "olfactory",
+      "nodes": 1082,
+      "edges": 1081,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/12160",
+      "sha256": "07ed5d47dc92e8a603323de2bab7b17f6e12492c8cde83dd9f0373b132b82eca"
+    },
+    {
+      "id": "58500",
+      "type": "DC4_vPN",
+      "instance": "DC4_vPN_R",
+      "group": "olfactory",
+      "nodes": 1570,
+      "edges": 1569,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/58500",
+      "sha256": "407e1fac000a77472c319976b962e91eee5d60de0bdc80fc0ad4070f36c624a4"
+    },
+    {
+      "id": "10359",
+      "type": "DL1_adPN",
+      "instance": "DL1_adPN_L",
+      "group": "olfactory",
+      "nodes": 1060,
+      "edges": 1059,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10359",
+      "sha256": "fd586a52ab50e75b9592a50eee17fd4980d406ae357c9c6155451a8711a3c67e"
+    },
+    {
+      "id": "29217",
+      "type": "DL2d_adPN",
+      "instance": "DL2d_adPN_L",
+      "group": "olfactory",
+      "nodes": 1035,
+      "edges": 1034,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/29217",
+      "sha256": "4d3901fbc2ceb5b89b36d9522cab79f6e55aae66b8a80b72626b9a6cdeabf19d"
+    },
+    {
+      "id": "67747",
+      "type": "DL2d_vPN",
+      "instance": "DL2d_vPN_L",
+      "group": "olfactory",
+      "nodes": 1640,
+      "edges": 1638,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/67747",
+      "sha256": "ba73133b4ba66055abc44c6be8c7de80972ff713d981cd4236b9ad7eb779f48d"
+    },
+    {
+      "id": "17540",
+      "type": "DL2v_adPN",
+      "instance": "DL2v_adPN_L",
+      "group": "olfactory",
+      "nodes": 1331,
+      "edges": 1330,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/17540",
+      "sha256": "09b75c714ee0c3783a6060add614aeb4627eddb26a44eaf375a5c0949c1f3ae1"
+    },
+    {
+      "id": "23045",
+      "type": "DL3_lPN",
+      "instance": "DL3_lPN_L",
+      "group": "olfactory",
+      "nodes": 1282,
+      "edges": 1281,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/23045",
+      "sha256": "7f7e9a8f0c393c6970fe2968252f51a7f4901e5732f091cd2b7511bbd8971b47"
+    },
+    {
+      "id": "11829",
+      "type": "DL4_adPN",
+      "instance": "DL4_adPN_L",
+      "group": "olfactory",
+      "nodes": 1124,
+      "edges": 1123,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11829",
+      "sha256": "f645e93d31d1434ea39c49c79fc8ea1384ba11244ce27c90bf278cfb0daa8226"
+    },
+    {
+      "id": "10767",
+      "type": "DL5_adPN",
+      "instance": "DL5_adPN_L",
+      "group": "olfactory",
+      "nodes": 1265,
+      "edges": 1264,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10767",
+      "sha256": "5e77fdee481fa7f70ac3d943063e0bf45386526c9ad267a438a12770f25abdb6"
+    },
+    {
+      "id": "10208",
+      "type": "DM1_lPN",
+      "instance": "DM1_lPN_L",
+      "group": "olfactory",
+      "nodes": 1776,
+      "edges": 1775,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10208",
+      "sha256": "f3a62bf1677ba0f8a7c67ec61709462ba1ef5c03493f53837627ef5c57adcc14"
+    },
+    {
+      "id": "11080",
+      "type": "DM2_lPN",
+      "instance": "DM2_lPN_L",
+      "group": "olfactory",
+      "nodes": 1343,
+      "edges": 1342,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11080",
+      "sha256": "63e273cf40d09a12d014ee41fba21f6c4f2de26c68ce6d61b9bc961581ba5bbd"
+    },
+    {
+      "id": "10111",
+      "type": "DM3_adPN",
+      "instance": "DM3_adPN_L",
+      "group": "olfactory",
+      "nodes": 1324,
+      "edges": 1323,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10111",
+      "sha256": "67eb6bf09a1e20168ecdec6d375958675a3388b173d903b2a2a975405907b138"
+    },
+    {
+      "id": "72405",
+      "type": "DM3_vPN",
+      "instance": "DM3_vPN_R",
+      "group": "olfactory",
+      "nodes": 1247,
+      "edges": 1246,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/72405",
+      "sha256": "4ccf54f725b819c52242ba936a0df272b9a35c4674e3d77ca3c047dd1d7d99a2"
+    },
+    {
+      "id": "10613",
+      "type": "DM4_adPN",
+      "instance": "DM4_adPN_R",
+      "group": "olfactory",
+      "nodes": 1496,
+      "edges": 1495,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10613",
+      "sha256": "0c5a55ca0b1518dc8504ede45252d6caf3c265e9fcab8c74b122699d24cabb16"
+    },
+    {
+      "id": "73492",
+      "type": "DM4_vPN",
+      "instance": "DM4_vPN_R",
+      "group": "olfactory",
+      "nodes": 1498,
+      "edges": 1497,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/73492",
+      "sha256": "8b7a7c6a50739f7612976029ff8cd26f5e20121be2e789ad014f9c80d5a8d57b"
+    },
+    {
+      "id": "520475",
+      "type": "DM5_lPN",
+      "instance": "DM5_lPN_R",
+      "group": "olfactory",
+      "nodes": 2955,
+      "edges": 2954,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/520475",
+      "sha256": "3205f0293b1edcb8185cc73ce06874d01df6f259943dda732467e3f6b07f978e"
+    },
+    {
+      "id": "15005",
+      "type": "DM6_adPN",
+      "instance": "DM6_adPN_R",
+      "group": "olfactory",
+      "nodes": 1141,
+      "edges": 1140,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/15005",
+      "sha256": "37e6d48545a7400bcf7d53ffc806f6cd059d09e3da0d3b9160c77d6764c17b14"
+    },
+    {
+      "id": "10524",
+      "type": "DP1l_adPN",
+      "instance": "DP1l_adPN_L",
+      "group": "olfactory",
+      "nodes": 1439,
+      "edges": 1438,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10524",
+      "sha256": "29331c7cfd003a2194d4793c32eed8d061b189c258a29084533192e682cabe24"
+    },
+    {
+      "id": "58622",
+      "type": "DP1l_vPN",
+      "instance": "DP1l_vPN_R",
+      "group": "olfactory",
+      "nodes": 1326,
+      "edges": 1324,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/58622",
+      "sha256": "33d898f46d13805e2d0ab1379a90e9117449dd152a26bc9e9f17e3453a5261d0"
+    },
+    {
+      "id": "10126",
+      "type": "DP1m_adPN",
+      "instance": "DP1m_adPN_L",
+      "group": "olfactory",
+      "nodes": 1930,
+      "edges": 1929,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10126",
+      "sha256": "4d06e027ff2abcd2cb1c6c2f7b9f1e6bf8a74f24d03af3b86a637bdf25c0f4a0"
+    },
+    {
+      "id": "54892",
+      "type": "DP1m_vPN",
+      "instance": "DP1m_vPN_R",
+      "group": "olfactory",
+      "nodes": 1342,
+      "edges": 1341,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/54892",
+      "sha256": "2369a94d5c9a6b51497c6c8df69ce772387fc9e43c2064b8881cd7dea4eaf72f"
+    },
+    {
+      "id": "520818",
+      "type": "EPG",
+      "instance": "EPG(PB08)_L4",
+      "group": "central",
+      "nodes": 1913,
+      "edges": 1912,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/520818",
+      "sha256": "eb126a221469698681a0bcad7bad9d3196aa03383e261c3855447607dc654d67"
+    },
+    {
+      "id": "40768",
+      "type": "EPGt",
+      "instance": "EPGt(PB09)_R9",
+      "group": "central",
+      "nodes": 875,
+      "edges": 872,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/40768",
+      "sha256": "d05e1469fca12b465dd58085ef4ea59ada7e554fb5a526dc41203103a2a75b31"
+    },
+    {
+      "id": "67174",
+      "type": "ER1_a",
+      "instance": "ER1_a_R",
+      "group": "central",
+      "nodes": 1138,
+      "edges": 1137,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/67174",
+      "sha256": "02bd5f651015e9fe24a1a45717d2dc7e2d6b4ae008e61e6aa5be3d1b8c544312"
+    },
+    {
+      "id": "35978",
+      "type": "ER1_b",
+      "instance": "ER1_b_L",
+      "group": "central",
+      "nodes": 1129,
+      "edges": 1128,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/35978",
+      "sha256": "10a0401969c36b8ccd63c67af6d53976631860dc66039b29c4678869f72c57a3"
+    },
+    {
+      "id": "511857",
+      "type": "ER1_c",
+      "instance": "ER1_c_L",
+      "group": "central",
+      "nodes": 1144,
+      "edges": 1143,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/511857",
+      "sha256": "d04d7a23cad43e81d769b6ea67531b669447fa281405c9c53993578918c52cb1"
+    },
+    {
+      "id": "517059",
+      "type": "ER2_a",
+      "instance": "ER2_a_L",
+      "group": "central",
+      "nodes": 1403,
+      "edges": 1402,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/517059",
+      "sha256": "38e3dfafdd2d0479fd829e914769292b370bc6fbb2ce2ad16e9af900913932c0"
+    },
+    {
+      "id": "514042",
+      "type": "ER2_b",
+      "instance": "ER2_b_L",
+      "group": "central",
+      "nodes": 1000,
+      "edges": 999,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/514042",
+      "sha256": "577486b15cf116572f7e33ce43c2463a4eb446071a865c90158c6bffbda4187f"
+    },
+    {
+      "id": "19807",
+      "type": "ER2_c",
+      "instance": "ER2_c_L",
+      "group": "central",
+      "nodes": 1483,
+      "edges": 1482,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/19807",
+      "sha256": "db68d124ee05f9edb4038786dd3c070e24c5d8c5e13ab2a56e41473d57ecf761"
+    },
+    {
+      "id": "15444",
+      "type": "ER2_d",
+      "instance": "ER2_d_L",
+      "group": "central",
+      "nodes": 1202,
+      "edges": 1201,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/15444",
+      "sha256": "4bbb27b909b79ea9782208258db9a7837eabd4628b12e881e2c63dac687f87b3"
+    },
+    {
+      "id": "533062",
+      "type": "ER3a_a",
+      "instance": "ER3a_a_L",
+      "group": "central",
+      "nodes": 874,
+      "edges": 873,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/533062",
+      "sha256": "280990390f905d17d4bab9ddefd0391da58a1a06d336e990abca3787f9dfc18d"
+    },
+    {
+      "id": "511777",
+      "type": "ER3a_b",
+      "instance": "ER3a_b_L",
+      "group": "central",
+      "nodes": 1023,
+      "edges": 1022,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/511777",
+      "sha256": "5c6bb51671fb8f1ecf2d1b86c60c7230935a08f85c1385a54b3b8f6af9e78c55"
+    },
+    {
+      "id": "30443",
+      "type": "ER3a_c",
+      "instance": "ER3a_c_R",
+      "group": "central",
+      "nodes": 1071,
+      "edges": 1070,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/30443",
+      "sha256": "d9296c23f983c82d7deb8e796655655975c0125fbd3b936f5327c55fcfe2b51b"
+    },
+    {
+      "id": "69454",
+      "type": "ER3a_d",
+      "instance": "ER3a_d_L",
+      "group": "central",
+      "nodes": 876,
+      "edges": 875,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/69454",
+      "sha256": "dd7134c0c7481d218799a542d1228eed9bba3504b8612951313218794b7f9869"
+    },
+    {
+      "id": "527150",
+      "type": "ER3d_a",
+      "instance": "ER3d_a_L",
+      "group": "central",
+      "nodes": 1047,
+      "edges": 1046,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/527150",
+      "sha256": "4d9dfe3ec2971af5ff04674b24887ee0f2a19b60fff99dc1deb3d7b405dcd239"
+    },
+    {
+      "id": "51382",
+      "type": "ER3d_b",
+      "instance": "ER3d_b_L",
+      "group": "central",
+      "nodes": 845,
+      "edges": 844,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/51382",
+      "sha256": "afac527bea17ee8f1875ef2dbff390ebf2bceb715538af58a23c2d1d80c1c0bf"
+    },
+    {
+      "id": "27454",
+      "type": "ER3d_c",
+      "instance": "ER3d_c_R",
+      "group": "central",
+      "nodes": 912,
+      "edges": 911,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/27454",
+      "sha256": "e87432e24ccde2dc9ed669c6e21afce23925f9234809ea55252ab77ea6fde788"
+    },
+    {
+      "id": "47464",
+      "type": "ER3d_d",
+      "instance": "ER3d_d_R",
+      "group": "central",
+      "nodes": 913,
+      "edges": 912,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/47464",
+      "sha256": "d13c5c976831f86d2b93a4a7c816ca6284f461f12c7f35482aa3466af5e9f937"
+    },
+    {
+      "id": "44830",
+      "type": "ER3d_e",
+      "instance": "ER3d_e_R",
+      "group": "central",
+      "nodes": 1018,
+      "edges": 1017,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/44830",
+      "sha256": "c7c99425b7908e66d023b9c117e91e5ab5c82ef9315ad9ea0b0c6ecb8281a3e5"
+    },
+    {
+      "id": "38084",
+      "type": "ER3m",
+      "instance": "ER3m_L",
+      "group": "central",
+      "nodes": 980,
+      "edges": 979,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/38084",
+      "sha256": "d2105a50568942431233f7f51ce139571cc0008bd6d328e27b010a852eb0b23e"
+    },
+    {
+      "id": "53745",
+      "type": "ER3p_a",
+      "instance": "ER3p_a_L",
+      "group": "central",
+      "nodes": 708,
+      "edges": 707,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/53745",
+      "sha256": "8ad2b74f003af94437345032837fb984ae8ac1dc14bd895e7f2506705d3d1112"
+    },
+    {
+      "id": "53618",
+      "type": "ER3p_b",
+      "instance": "ER3p_b_L",
+      "group": "central",
+      "nodes": 729,
+      "edges": 728,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/53618",
+      "sha256": "eec3ac2079b7b51c6a088e5c869b595e060adc5acc06b5d67a01690cd0abe935"
+    },
+    {
+      "id": "523788",
+      "type": "ER3w_a",
+      "instance": "ER3w_a_R",
+      "group": "central",
+      "nodes": 980,
+      "edges": 979,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/523788",
+      "sha256": "ae3da398b230622bde4ab42eb7a436a8089b220012536d51ece9bcc254c84dd1"
+    },
+    {
+      "id": "526143",
+      "type": "ER3w_b",
+      "instance": "ER3w_b_L",
+      "group": "central",
+      "nodes": 729,
+      "edges": 728,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/526143",
+      "sha256": "e37c0aa90e7acfa3dab456b6ca3d2dadd92927f0d36d169c23abdc0374ac0a05"
+    },
+    {
+      "id": "512606",
+      "type": "ER3w_c",
+      "instance": "ER3w_c_L",
+      "group": "central",
+      "nodes": 894,
+      "edges": 893,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/512606",
+      "sha256": "0f1dd118bc42cac4a048d2ee57edd6a6aa17b09df80f08c76df9092b174808c1"
+    },
+    {
+      "id": "24076",
+      "type": "ER4d",
+      "instance": "ER4d_R",
+      "group": "central",
+      "nodes": 1488,
+      "edges": 1487,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/24076",
+      "sha256": "da03eec5f1e9e4f1e6eaf750b7c7f70102fce9db763fa11e74c13be30da83043"
+    },
+    {
+      "id": "519347",
+      "type": "ER4m",
+      "instance": "ER4m_R",
+      "group": "central",
+      "nodes": 1629,
+      "edges": 1628,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/519347",
+      "sha256": "e8b497515cb2b03fe22cceb3187955d1eb181ddde90d2bb10d81747a28981165"
+    },
+    {
+      "id": "521528",
+      "type": "ER5",
+      "instance": "ER5_L",
+      "group": "central",
+      "nodes": 595,
+      "edges": 594,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/521528",
+      "sha256": "4ae83e4cd02239f8b238dcaf25cf17372ed2f004ded2bbe52c2fe900c1920c27"
+    },
+    {
+      "id": "17419",
+      "type": "ER6",
+      "instance": "ER6_R",
+      "group": "central",
+      "nodes": 2137,
+      "edges": 2135,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/17419",
+      "sha256": "af3569585b6dc983fb8cbc79cda31b326746e7886e0465d58b4403497405ca3d"
+    },
+    {
+      "id": "35743",
+      "type": "PEN_a(PEN1)",
+      "instance": "PEN_a(PB06a)_R4",
+      "group": "central",
+      "nodes": 1177,
+      "edges": 1176,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/35743",
+      "sha256": "77197abe354e14e80bd01c8a70be639df84de50a1bd6f0bbc1b53acc98d0c69d"
+    },
+    {
+      "id": "529385",
+      "type": "PEN_b(PEN2)",
+      "instance": "PEN_b(PB06b)_L7",
+      "group": "central",
+      "nodes": 1236,
+      "edges": 1235,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/529385",
+      "sha256": "b3ff0ccdd0beec9ac80feea412a793aae05e915db892ffe90de322fe1afc963c"
+    },
+    {
+      "id": "11745",
+      "type": "PFL1",
+      "instance": "PFL1(PB12a)_L1_C8_irreg",
+      "group": "central",
+      "nodes": 1888,
+      "edges": 1886,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/11745",
+      "sha256": "9a1fc72a520ea6b6728ce2e2f8bc0170f7f8739647d30b5db77c1ee4e93891d8"
+    },
+    {
+      "id": "13031",
+      "type": "PFL2",
+      "instance": "PFL2(PB12b)_R3_C3",
+      "group": "central",
+      "nodes": 2075,
+      "edges": 2074,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/13031",
+      "sha256": "e89c5fcf763ca764dc1fd458e78583dee6127bdd1e8aebf74dae7d8827ea36fd"
+    },
+    {
+      "id": "35322",
+      "type": "PFL3",
+      "instance": "PFL3(PB12c)_R1_C7",
+      "group": "central",
+      "nodes": 1787,
+      "edges": 1786,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/35322",
+      "sha256": "6256995428c663db815c366f7057c4eb40bfaf59beeef5e7a1d65cf22855e127"
+    },
+    {
+      "id": "512514",
+      "type": "EPG",
+      "instance": "EPG(PB08)_L1",
+      "group": "central",
+      "nodes": 1862,
+      "edges": 1860,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/512514",
+      "sha256": "8d5487ce22756d0ce67be69ba9e0cf5a25c44b912bea71f6c30d6a529b19137a"
+    },
+    {
+      "id": "543506",
+      "type": "EPGt",
+      "instance": "EPGt(PB09)_L9",
+      "group": "central",
+      "nodes": 761,
+      "edges": 757,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/543506",
+      "sha256": "7c12ac8836ff66c0c72453184a4e6e599fe9d14f64d44afcd3e78de8023aa3e1"
+    },
+    {
+      "id": "31681",
+      "type": "ER1_a",
+      "instance": "ER1_a_R",
+      "group": "central",
+      "nodes": 3761,
+      "edges": 3760,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/31681",
+      "sha256": "b00868251000393ebcbb4fe0d407cd535c6e943974ed51e123b2f9d56f8f7613"
+    },
+    {
+      "id": "42241",
+      "type": "ER1_b",
+      "instance": "ER1_b_R",
+      "group": "central",
+      "nodes": 985,
+      "edges": 984,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/42241",
+      "sha256": "039deeaa390767f5ba60b9afbd4f66c72db87a2c9d16ead7351057039a36526f"
+    },
+    {
+      "id": "36235",
+      "type": "ER1_c",
+      "instance": "ER1_c_L",
+      "group": "central",
+      "nodes": 1184,
+      "edges": 1183,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/36235",
+      "sha256": "822921af943f6fac3ac21c1e6d319b015d2886637b2c7700732fb46f9000e62f"
+    },
+    {
+      "id": "21645",
+      "type": "ER2_a",
+      "instance": "ER2_a_L",
+      "group": "central",
+      "nodes": 1435,
+      "edges": 1434,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/21645",
+      "sha256": "2da3fbf1ab97d3bb535c4130cac298a4f0ae3085f59f6e383e2c8793c3a61f0e"
+    },
+    {
+      "id": "26136",
+      "type": "ER2_b",
+      "instance": "ER2_b_R",
+      "group": "central",
+      "nodes": 1153,
+      "edges": 1152,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/26136",
+      "sha256": "8f662b2e39d522959bc7e0f2f3ad05ca3c39376115a631052b34338f00f943db"
+    },
+    {
+      "id": "19569",
+      "type": "ER2_c",
+      "instance": "ER2_c_R",
+      "group": "central",
+      "nodes": 1516,
+      "edges": 1515,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/19569",
+      "sha256": "dcc03a5b3813af2fe9eafe599f32b05fa7b26dfef748a8c9dc922874d0e08e20"
+    },
+    {
+      "id": "17679",
+      "type": "ER2_d",
+      "instance": "ER2_d_R",
+      "group": "central",
+      "nodes": 1218,
+      "edges": 1217,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/17679",
+      "sha256": "794720a0884baaae5381c06d70ac55b7127f3f97abfa2ef6e6731dd8fc0e73e4"
+    },
+    {
+      "id": "36327",
+      "type": "ER3a_a",
+      "instance": "ER3a_a_R",
+      "group": "central",
+      "nodes": 825,
+      "edges": 824,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/36327",
+      "sha256": "28c17b95ad563ccb147686d14efe3b5a4c7faf362b5c7ecbc4b12751df11462c"
+    },
+    {
+      "id": "33911",
+      "type": "ER3a_b",
+      "instance": "ER3a_b_R",
+      "group": "central",
+      "nodes": 937,
+      "edges": 935,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/33911",
+      "sha256": "3b0c0b29b5f55fbd619b4a76f7a758722180b486aac563377236be200fd81a65"
+    },
+    {
+      "id": "31121",
+      "type": "ER3a_c",
+      "instance": "ER3a_c_L",
+      "group": "central",
+      "nodes": 1240,
+      "edges": 1239,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/31121",
+      "sha256": "5e64d73f284ff4ff4ece7fc51527a1b7acef5eb6e23fb9fc33c4c13de79dffed"
+    },
+    {
+      "id": "31970",
+      "type": "ER3a_d",
+      "instance": "ER3a_d_L",
+      "group": "central",
+      "nodes": 993,
+      "edges": 992,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/31970",
+      "sha256": "f4b54761eed61ec45774d38a11648aa7ad1c2f9ee5ec9b330f9a500a89d48d9a"
+    },
+    {
+      "id": "38306",
+      "type": "ER3d_a",
+      "instance": "ER3d_a_L",
+      "group": "central",
+      "nodes": 1059,
+      "edges": 1058,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/38306",
+      "sha256": "73762bd602e04eeef5e8ed62e4698c9b80ac6c41aefb85dd927b067599db2764"
+    },
+    {
+      "id": "33589",
+      "type": "ER3d_b",
+      "instance": "ER3d_b_L",
+      "group": "central",
+      "nodes": 770,
+      "edges": 769,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/33589",
+      "sha256": "b4bf2577b7dbf9c4cf314967f910d4744767cb628885d78e5d70f3761f8a645b"
+    },
+    {
+      "id": "522806",
+      "type": "ER3d_c",
+      "instance": "ER3d_c_R",
+      "group": "central",
+      "nodes": 1042,
+      "edges": 1041,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/522806",
+      "sha256": "8e2e893171f22613305b379fcdc15cb2b14926f17e046bb75523658988f505df"
+    },
+    {
+      "id": "27052",
+      "type": "ER3d_d",
+      "instance": "ER3d_d_R",
+      "group": "central",
+      "nodes": 924,
+      "edges": 923,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/27052",
+      "sha256": "39e9d1ab4c392af213e89a54b504435d716df61cb50a17b9e7cab9dac4c10453"
+    },
+    {
+      "id": "37817",
+      "type": "ER3d_e",
+      "instance": "ER3d_e_R",
+      "group": "central",
+      "nodes": 1058,
+      "edges": 1057,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/37817",
+      "sha256": "b409fa5991536fa9220e91be9aeda240fc13acc3d25e9e16e2309a46138f29b7"
+    },
+    {
+      "id": "26939",
+      "type": "ER3m",
+      "instance": "ER3m_R",
+      "group": "central",
+      "nodes": 911,
+      "edges": 909,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/26939",
+      "sha256": "649b4a1a1707693c648a5de43433b050f07960c3447ad8e6128de6dced2c390d"
+    },
+    {
+      "id": "50007",
+      "type": "ER3p_a",
+      "instance": "ER3p_a_L",
+      "group": "central",
+      "nodes": 2916,
+      "edges": 2915,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/50007",
+      "sha256": "e713fa40d89d8cb64ac2d1115cf0ab84a1f34cd2913484ee3b684cfa9a8e652d"
+    },
+    {
+      "id": "49869",
+      "type": "ER3p_b",
+      "instance": "ER3p_b_R",
+      "group": "central",
+      "nodes": 676,
+      "edges": 674,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/49869",
+      "sha256": "e9d7b2368a4e94cd3d61736b5e6902db78fd19eb29cb30d3c1bca0f6c3e38dc6"
+    },
+    {
+      "id": "517264",
+      "type": "ER3w_a",
+      "instance": "ER3w_a_R",
+      "group": "central",
+      "nodes": 1004,
+      "edges": 1003,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/517264",
+      "sha256": "76139b1776cd38444307a58789c4de8457c8a38615d5b01adea9261226500492"
+    },
+    {
+      "id": "27770",
+      "type": "ER3w_b",
+      "instance": "ER3w_b_R",
+      "group": "central",
+      "nodes": 663,
+      "edges": 662,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/27770",
+      "sha256": "c9c59f57e5061a67eeabdd664d83e9263144eeea20949e37ff363bdc7d9937a7"
+    },
+    {
+      "id": "25203",
+      "type": "ER3w_c",
+      "instance": "ER3w_c_L",
+      "group": "central",
+      "nodes": 825,
+      "edges": 824,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/25203",
+      "sha256": "fc51608a4f80c3da611eb02a8c2529d50a39ade04674a2cd888bb38a3b07dbe8"
+    },
+    {
+      "id": "24122",
+      "type": "ER4d",
+      "instance": "ER4d_R",
+      "group": "central",
+      "nodes": 1487,
+      "edges": 1485,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/24122",
+      "sha256": "e7f24e1628e5f81f9dc1fca492409e5e2bc4e8dc3a149b932bc418e0e3890981"
+    },
+    {
+      "id": "454614",
+      "type": "ER4m",
+      "instance": "ER4m_L",
+      "group": "central",
+      "nodes": 1498,
+      "edges": 1497,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/454614",
+      "sha256": "1574e1c67077b7446a238f2810226d7fe1952cb058788ef0b3aa03032608cfba"
+    },
+    {
+      "id": "17078",
+      "type": "ER5",
+      "instance": "ER5_R",
+      "group": "central",
+      "nodes": 591,
+      "edges": 590,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/17078",
+      "sha256": "fa5de9de8a7fc1d3b522d0ab1873755f399cc38f7e636c140c01687908b85284"
+    },
+    {
+      "id": "14464",
+      "type": "ER6",
+      "instance": "ER6_L",
+      "group": "central",
+      "nodes": 1993,
+      "edges": 1991,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/14464",
+      "sha256": "d4d67bedd66337052393695809ed34294ce0c08dae22a9bbdd736d14dfc9606e"
+    },
+    {
+      "id": "514405",
+      "type": "PEN_a(PEN1)",
+      "instance": "PEN_a(PB06a)_R6",
+      "group": "central",
+      "nodes": 1239,
+      "edges": 1238,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/514405",
+      "sha256": "78927ac54e50d4a818f4b58fa4b80b57ff99fbbb2ca9450ab2fb106a0d263cb0"
+    },
+    {
+      "id": "15176",
+      "type": "PEN_b(PEN2)",
+      "instance": "PEN_b(PB06b)_R8",
+      "group": "central",
+      "nodes": 1152,
+      "edges": 1151,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/15176",
+      "sha256": "0eda9a218f5ee14dd0c91d412b0b365ca622b710c18dbb21be0a340b7559cd76"
+    },
+    {
+      "id": "523034",
+      "type": "PFL1",
+      "instance": "PFL1(PB12a)_L7_C9",
+      "group": "central",
+      "nodes": 1602,
+      "edges": 1597,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/523034",
+      "sha256": "ed2e84241e6ad1887081bafeee6649018077c2a2662a4b93b3eb7c6a2af0a52b"
+    },
+    {
+      "id": "513034",
+      "type": "PFL2",
+      "instance": "PFL2(PB12b)_L5_C9",
+      "group": "central",
+      "nodes": 2182,
+      "edges": 2175,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/513034",
+      "sha256": "e29243c5f0cc48daa4f8410133a803ac2bc0b64835a6ea5908cd1f3dcea3322f"
+    },
+    {
+      "id": "26038",
+      "type": "PFL3",
+      "instance": "PFL3(PB12c)_L5_C7",
+      "group": "central",
+      "nodes": 1995,
+      "edges": 1994,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/26038",
+      "sha256": "e9c67f4b32b8fe5b2c3791088a1d323e5d54335616708bbe125f58fb155bdb15"
+    },
+    {
+      "id": "556346",
+      "type": "EPG",
+      "instance": "EPG(PB08)_L6",
+      "group": "central",
+      "nodes": 1798,
+      "edges": 1796,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/556346",
+      "sha256": "e855d381b70e9ea16d28825e1f8d16ca6c3387529b660cd3b6ca1e6177b4b1c1"
+    },
+    {
+      "id": "55630",
+      "type": "EPGt",
+      "instance": "EPGt(PB09)_R9",
+      "group": "central",
+      "nodes": 891,
+      "edges": 887,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/55630",
+      "sha256": "de0b0c0f8897513bd7f2b66d04856bcca2ed0ed1ab98a9fb8928c9b0c3d2fe2a"
+    },
+    {
+      "id": "26798",
+      "type": "ER1_a",
+      "instance": "ER1_a_L",
+      "group": "central",
+      "nodes": 1314,
+      "edges": 1313,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/26798",
+      "sha256": "83591e4100946fa77f203015af9b1b3f85514bc7cf911147fbc21884af2f403c"
+    },
+    {
+      "id": "518690",
+      "type": "ER1_b",
+      "instance": "ER1_b_R",
+      "group": "central",
+      "nodes": 1111,
+      "edges": 1110,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/518690",
+      "sha256": "545d5512fe71f04c12748cc055de305fa5cdcee00cc313136d69f8372eb8c720"
+    },
+    {
+      "id": "72491",
+      "type": "ER1_c",
+      "instance": "ER1_c_R",
+      "group": "central",
+      "nodes": 1093,
+      "edges": 1092,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/72491",
+      "sha256": "1e0fe8b8ba742a263a9c101ba198e862670e7833cf241449f239af13055d4ab6"
+    },
+    {
+      "id": "21179",
+      "type": "ER2_a",
+      "instance": "ER2_a_R",
+      "group": "central",
+      "nodes": 1335,
+      "edges": 1334,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/21179",
+      "sha256": "9c2defa49a2b74567a339041511a16501bb47fb861f35ed4034bbac9e064d0bc"
+    },
+    {
+      "id": "18058",
+      "type": "ER2_b",
+      "instance": "ER2_b_L",
+      "group": "central",
+      "nodes": 1009,
+      "edges": 1008,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/18058",
+      "sha256": "9f573d12b5046698bd0b5904bbf15f0a0dbd80d4d017c9d852f4d245e8e1d318"
+    },
+    {
+      "id": "19935",
+      "type": "ER2_c",
+      "instance": "ER2_c_R",
+      "group": "central",
+      "nodes": 1429,
+      "edges": 1428,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/19935",
+      "sha256": "9e1fc791763a19516a3c265affaf8773ac175cae2629c811ad5d22a6c7d4ca2b"
+    },
+    {
+      "id": "21059",
+      "type": "ER2_d",
+      "instance": "ER2_d_R",
+      "group": "central",
+      "nodes": 1209,
+      "edges": 1208,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/21059",
+      "sha256": "39a9c48a24c0c352397f2a69e6aa73b387dbfad9ef1c6bb653dcb98a27ce3c4b"
+    },
+    {
+      "id": "35545",
+      "type": "ER3a_a",
+      "instance": "ER3a_a_L",
+      "group": "central",
+      "nodes": 868,
+      "edges": 867,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/35545",
+      "sha256": "209ec82fd6f097d1690dd7a7d668d1d7b2727638cffdb2228d2f07c355496ff6"
+    },
+    {
+      "id": "34922",
+      "type": "ER3a_b",
+      "instance": "ER3a_b_R",
+      "group": "central",
+      "nodes": 1012,
+      "edges": 1010,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/34922",
+      "sha256": "83309297667dc118b1fd42e37ba20a410633a5d9465a1a137bf409dc361ff4c6"
+    },
+    {
+      "id": "544496",
+      "type": "ER3a_c",
+      "instance": "ER3a_c_R",
+      "group": "central",
+      "nodes": 1162,
+      "edges": 1161,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/544496",
+      "sha256": "b05001dc9ac1e5f71a9b5e151063559f63151e2adaf47259a68cde4d7ee9f4a2"
+    },
+    {
+      "id": "519329",
+      "type": "ER3a_d",
+      "instance": "ER3a_d_R",
+      "group": "central",
+      "nodes": 887,
+      "edges": 886,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/519329",
+      "sha256": "21102ca455aca5163651c34d8949dac0a2b2131d9448b17dd46f10641803c09a"
+    },
+    {
+      "id": "22644",
+      "type": "ER3d_a",
+      "instance": "ER3d_a_R",
+      "group": "central",
+      "nodes": 1104,
+      "edges": 1103,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/22644",
+      "sha256": "799bd26deec40c1adce096790a6a4a4753f74ccdeb00f35e330350c97f3a6311"
+    },
+    {
+      "id": "29046",
+      "type": "ER3d_b",
+      "instance": "ER3d_b_R",
+      "group": "central",
+      "nodes": 887,
+      "edges": 886,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/29046",
+      "sha256": "8de981fa777d2132a0f985a0b0482596e20df737971c1a13bf98ab1bce86ebfd"
+    },
+    {
+      "id": "49378",
+      "type": "ER3d_c",
+      "instance": "ER3d_c_R",
+      "group": "central",
+      "nodes": 973,
+      "edges": 972,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/49378",
+      "sha256": "50807b10d59d3710b017f173b52ce946d3f8eee14012fdf89ff463145739273d"
+    },
+    {
+      "id": "522759",
+      "type": "ER3d_d",
+      "instance": "ER3d_d_L",
+      "group": "central",
+      "nodes": 924,
+      "edges": 923,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/522759",
+      "sha256": "55a115c5f3f49385334c2799e861299b4940c96589e29a139d0e18d2ff5e5c15"
+    },
+    {
+      "id": "25494",
+      "type": "ER3d_e",
+      "instance": "ER3d_e_L",
+      "group": "central",
+      "nodes": 1039,
+      "edges": 1038,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/25494",
+      "sha256": "b7527718880a67eb8b5da5546309e8cc893cc6cad1ae16cfc0da01ebc37affef"
+    },
+    {
+      "id": "27013",
+      "type": "ER3m",
+      "instance": "ER3m_L",
+      "group": "central",
+      "nodes": 876,
+      "edges": 874,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/27013",
+      "sha256": "b973fba506fca61cd3af1ee42032cdde8df0742f1c5c24446d681687f96ff23a"
+    },
+    {
+      "id": "529207",
+      "type": "ER3p_a",
+      "instance": "ER3p_a_R",
+      "group": "central",
+      "nodes": 3148,
+      "edges": 3147,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/529207",
+      "sha256": "e1e11ff713d4d45cb700100bc2387d60e9d3031acc70d32314f830bc10cbfda6"
+    },
+    {
+      "id": "45134",
+      "type": "ER3p_b",
+      "instance": "ER3p_b_L",
+      "group": "central",
+      "nodes": 672,
+      "edges": 671,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/45134",
+      "sha256": "6266ba2098724573f44996c5c025b5832f2d40716fd508d51da485d63f29a6fd"
+    },
+    {
+      "id": "46707",
+      "type": "ER3w_a",
+      "instance": "ER3w_a_L",
+      "group": "central",
+      "nodes": 990,
+      "edges": 989,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/46707",
+      "sha256": "abe2bf1c7fd5810373ef3b147c1247b83aa90593ce53c564658d963afe098b86"
+    },
+    {
+      "id": "26673",
+      "type": "ER3w_b",
+      "instance": "ER3w_b_L",
+      "group": "central",
+      "nodes": 684,
+      "edges": 683,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/26673",
+      "sha256": "1affedec7130bb71b1d15b91d2d7f93118c7a270b4cc840143f5977bdb6f38d4"
+    },
+    {
+      "id": "25447",
+      "type": "ER3w_c",
+      "instance": "ER3w_c_R",
+      "group": "central",
+      "nodes": 829,
+      "edges": 828,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/25447",
+      "sha256": "1f0fce58beaf97d92b7c34843cfed32c921278d94e27e2d8001d1254cf9d23cc"
+    },
+    {
+      "id": "23197",
+      "type": "ER4d",
+      "instance": "ER4d_L",
+      "group": "central",
+      "nodes": 1602,
+      "edges": 1601,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/23197",
+      "sha256": "ceb51dd23bb05a1e84243ddf876afcf5e91d8192f6ff17f4448e0488d5b25a8c"
+    },
+    {
+      "id": "17402",
+      "type": "ER4m",
+      "instance": "ER4m_L",
+      "group": "central",
+      "nodes": 1566,
+      "edges": 1565,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/17402",
+      "sha256": "98414c399d3d1ccf82571a1280d07a1e5c62fb1f1682e676ec5064db509d2284"
+    },
+    {
+      "id": "10043",
+      "type": "ER5",
+      "instance": "ER5_L",
+      "group": "central",
+      "nodes": 554,
+      "edges": 553,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10043",
+      "sha256": "d4ba4ef19207b879ed1deeaef06c69e495b79c1929768e22467f0e8cd3cfeb13",
+      "mesh": {
+        "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/meshes-malecns/single-res-meshes/10043.ngmesh",
+        "vertices": 296463,
+        "triangles": 539044,
+        "bounds": [
+          [
+            361274.4375,
+            134660.421875,
+            124375.34375
+          ],
+          [
+            486577.625,
+            180733.359375,
+            170165.78125
+          ]
+        ],
+        "sha256": "62b2cdf14852ac4040bf24d9752cbcc4b5c4ab622af6a94d36517470a79276c4"
+      }
+    },
+    {
+      "id": "512319",
+      "type": "ER6",
+      "instance": "ER6_L",
+      "group": "central",
+      "nodes": 2062,
+      "edges": 2061,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/512319",
+      "sha256": "5f5fe44360fb955dc0e80b5a8586b6f438ad9cbe6c09cdb0ff85894fc85fee36"
+    },
+    {
+      "id": "34949",
+      "type": "PEN_a(PEN1)",
+      "instance": "PEN_a(PB06a)_L4",
+      "group": "central",
+      "nodes": 1280,
+      "edges": 1279,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/34949",
+      "sha256": "9bbe6aae3c815cffce08ce13950c2a3c3dbd3fec3738e2e2285d373eae8df4c3"
+    },
+    {
+      "id": "23619",
+      "type": "PEN_b(PEN2)",
+      "instance": "PEN_b(PB06b)_R9",
+      "group": "central",
+      "nodes": 1209,
+      "edges": 1208,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/23619",
+      "sha256": "87050b3b58c23d630b47076e89f68472e8a5314584cb8779788faf662941d26c"
+    },
+    {
+      "id": "13882",
+      "type": "T4a",
+      "instance": "T4a_L",
+      "group": "optic",
+      "nodes": 435,
+      "edges": 434,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/13882",
+      "sha256": "5514b7c56782a08a321b624e1b9ea65bf38c8a27b2922e250a0319aea2ae7171",
+      "mesh": {
+        "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/meshes-malecns/single-res-meshes/13882.ngmesh",
+        "vertices": 74969,
+        "triangles": 138406,
+        "bounds": [
+          [
+            622759.625,
+            257776.59375,
+            294812.125
+          ],
+          [
+            665014.0,
+            286003.65625,
+            330761.0625
+          ]
+        ],
+        "sha256": "86ce70f17fe4085bd255edb6d40165ccc5c039ff406987aa45f11900f20596cd"
+      }
+    },
+    {
+      "id": "14292",
+      "type": "KCg-m",
+      "instance": "KCg-m_R",
+      "group": "mushroom",
+      "nodes": 1005,
+      "edges": 1004,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/14292",
+      "sha256": "b96f115be2668fc7da6692b90dd1761962e2b711c108a2ef8bbd644acbd22a8a",
+      "mesh": {
+        "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/meshes-malecns/single-res-meshes/14292.ngmesh",
+        "vertices": 171662,
+        "triangles": 307144,
+        "bounds": [
+          [
+            233942.390625,
+            84099.6875,
+            105553.984375
+          ],
+          [
+            379370.46875,
+            171624.515625,
+            282311.5
+          ]
+        ],
+        "sha256": "e4e32bba8b1949fdbe3532fcedbfe2a40b3c4f485b0304c2825fa08da6c68c41"
+      }
+    },
+    {
+      "id": "10075",
+      "type": "DA1_lPN",
+      "instance": "DA1_lPN_L",
+      "group": "olfactory",
+      "nodes": 1852,
+      "edges": 1851,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10075",
+      "sha256": "f459b21fef055c6e01a1bfa61b2ed7ac990f831a109e700aad07ad6aa53caef8",
+      "mesh": {
+        "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/meshes-malecns/single-res-meshes/10075.ngmesh",
+        "vertices": 276532,
+        "triangles": 369291,
+        "bounds": [
+          [
+            423849.71875,
+            94284.1328125,
+            83536.046875
+          ],
+          [
+            575192.5,
+            222759.359375,
+            283120.03125
+          ]
+        ],
+        "sha256": "e4e2650fe96ab699bd1e402fa2076e2160dda1b80f34a143a9970fb784c86141"
+      }
+    },
+    {
+      "id": "10539",
+      "type": "EPG",
+      "instance": "EPG(PB08)_R2",
+      "group": "central",
+      "nodes": 2030,
+      "edges": 2029,
+      "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/skeletons-malecns/skeletons-precomputed/10539",
+      "sha256": "003d8c69b6a69e95975f78338ef361505b1ff60f8b4528a5821a87487ea405a6",
+      "mesh": {
+        "url": "https://storage.googleapis.com/flyem-male-cns/v1.0/segmentation/meshes-malecns/single-res-meshes/10539.ngmesh",
+        "vertices": 142898,
+        "triangles": 189830,
+        "bounds": [
+          [
+            372580.6875,
+            67973.5546875,
+            134249.890625
+          ],
+          [
+            490208.875,
+            182397.390625,
+            255925.765625
+          ]
+        ],
+        "sha256": "2553cac96cdb5557261f37e7574cc1e3e6af09f9f4a1933454fd83b8427c9296"
+      }
+    }
+  ]
+}
