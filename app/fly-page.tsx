@@ -31,7 +31,7 @@ export default function FlyPage(){
  const onlyGroup=(id:GroupId)=>{const all=s.visible.length===1&&s.visible[0]===id;patch({visible:all?GROUPS.map(g=>g.id):[id],selected:null,isolate:false,reset:s.reset+1});};
  return <main className={`fly-studio ${detail?'has-selection':''}`}>
   <header className="atlas-header">
-   <div className="brand"><div className="brand-title"><h1>Fly Brain Atlas</h1><a className="author-link" href="https://x.com/ashebytes" target="_blank" rel="noopener noreferrer"><span>by</span> @ashebytes</a></div><p>MaleCNS <span>·</span> Adult male <i>Drosophila</i></p></div>
+   <div className="brand"><div className="brand-title"><h1>Fly Brain Atlas</h1><span className="author-link">UtsavPandya</span></div><p>MaleCNS <span>·</span> Adult male <i>Drosophila</i></p></div>
    <nav className="mode-tabs" aria-label="View">
     {([{mode:'cells',label:'Neurons'},{mode:'brain',label:'Brain'}] as const).map(({mode,label})=><button key={mode} aria-pressed={s.mode===mode} className={s.mode===mode?'active':''} onClick={()=>changeMode(mode)}>{label}</button>)}
    </nav>
@@ -40,7 +40,7 @@ export default function FlyPage(){
   {atlas&&<div className="fly-mini" role="img" aria-label="Fruit fly"><FlyScene atlas={atlas} state={miniState} bodyOnly onSelect={noop} onProgress={noop} onError={noop}/></div>}
   <div className="viewport">
    {atlas&&(s.mode==='cells'?cellData&&<CellScene atlas={atlas} data={cellData} state={s} cells={cells} onSelect={id=>selectNeuron(id)} onProgress={setProgress} onError={setError}/>:<FlyScene atlas={atlas} state={s} onSelect={select} onProgress={setProgress} onError={setError}/>)}
-   {!error&&progress<100&&<div className="model-loading" role="status"><span className="loader-ring"/><p>Loading {s.mode==='cells'?'neurons':'anatomy'} <span>{progress}%</span></p></div>}
+   {!error&&progress<100&&<div className="model-loading model-loading-corner" role="status"><span className="loader-ring"/><p>Loading {s.mode==='cells'?'neurons':'anatomy'} <span>{progress}%</span></p></div>}
    {error&&<div className="model-loading" role="alert"><p>{error}</p><button onClick={()=>location.reload()}>Reload</button></div>}
    {s.mode==='cells'&&!neuron&&<div className="neuron-population"><strong>166,691</strong><span>neurons mapped · brain & nerve cord</span></div>}
    <div className="stage-caption">{s.mode==='fly'?'NeuroMechFly · exterior reference':s.mode==='cells'?(neuron&&cells.surface?'Native neuron surface':'Representative reconstruction'):'MaleCNS · 80 brain regions'}</div>
