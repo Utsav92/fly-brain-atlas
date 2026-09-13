@@ -4,7 +4,7 @@ An interactive atlas of the adult male fruit fly brain using published MaleCNS g
 
 - 80 brain regions with 7,270,902 native source triangles.
 - Exploded anatomy, paired-region highlighting, and isolation.
-- 388 traced neurons plus eight complete neuron meshes, loaded on demand.
+- 1,712 traced neurons with 2,180,126 source segments, plus eight complete neuron meshes loaded on demand.
 - A separate detailed NeuroMechFly exterior reference.
 - A minimal dark interface with source-backed structure descriptions.
 
@@ -31,7 +31,7 @@ Production files are generated in `dist/`. Serve the entire directory, including
 
 See [asset provenance](public/male-cns/ATTRIBUTION.md), `public/male-cns/manifest.json`, and `public/male-cns/neurons.json` for source URLs and SHA-256 checksums. To retrieve missing MaleCNS files, run `python3 scripts/download-male-cns.py`; existing files and the included annotation snapshot are reused. `node scripts/pack-fly-body.mjs` rebuilds the exterior binary from the supplied source STL files and rig.
 
-Regions and neurons share MaleCNS EM coordinates. The exterior is an independent specimen. The cellular view is a selected collection, not all 166,691 neurons or a display of synapses. Colors and exploded spacing are illustrative. Meshes preserve source segmentation artifacts; more triangles do not imply more certain biological boundaries.
+Regions and neurons share MaleCNS EM coordinates. The exterior is an independent specimen. The headline reports the published 166,691-neuron count across the brain and ventral nerve cord. The cellular view is a selected brain-neuron collection illustrating morphological complexity, not the entire population or a display of synapses. The overview batches traces into four draw calls while retaining every source node and edge. Colors and exploded spacing are illustrative. Meshes preserve source segmentation artifacts; more triangles do not imply more certain biological boundaries.
 
 The full regional collection has substantial geometry (approximately 125 MB). Neuron skeletons load only in Neurons, and complete neuron meshes load only when selected. A WebGL-capable browser with hardware acceleration is recommended.
 

@@ -2,7 +2,8 @@
 
 Data: **MaleCNS v1.0**, FlyEM / HHMI Janelia, University of Cambridge, MRC Laboratory of Molecular Biology, and Google Research.
 
-- Project and publication: https://male-cns.janelia.org/
+- Project: https://male-cns.janelia.org/
+- Published neuron count (Berg et al., Cell, 2026): https://research.google/pubs/sexual-dimorphism-in-the-complete-connectome-of-the-drosophila-male-central-nervous-system/
 - Official downloads, formats, and coordinate conventions: https://male-cns.janelia.org/download/
 - Dataset license: **Creative Commons Attribution 4.0**, https://creativecommons.org/licenses/by/4.0/
 - Access-tools repository: https://github.com/natverse/malecns (GPL-3.0 code; not incorporated into this application).
@@ -16,9 +17,9 @@ The downloaded legacy-mesh files are unchanged: uint32 vertex count, float32 XYZ
 
 ## Individual neurons
 
-`neurons.json` describes **388 centerline skeletons** and **eight native surface meshes**. Skeletons retain all **707,518 source edges**. Binary format: uint32 vertex/edge counts, float32 XYZ vertices, uint32 edge endpoint indices. The official precomputed skeleton coordinates are in nanometers, matching the region and neuron meshes. Display line width does not encode neurite diameter.
+`neurons.json` describes **1,712 centerline skeletons** and **eight native surface meshes**. Skeletons retain all **2,180,126 source edges**. Binary format: uint32 vertex/edge counts, float32 XYZ vertices, uint32 edge endpoint indices. The official precomputed skeleton coordinates are in nanometers, matching the region and neuron meshes. Display line width does not encode neurite diameter.
 
-The collection uses 96 neurons per displayed family, selected by a deterministic per-type round-robin with hash-ordered body IDs, plus eight surface exemplars (four already present in the collection). This emphasizes morphological variety, not population frequencies or statistical representativeness. Family assignments use the type-label patterns in `scripts/download-male-cns.py`; they are interface groupings. Type and instance names are copied from the source annotation snapshot. The rendered collection is not the entire published 166,691-neuron brain-and-ventral-nerve-cord reconstruction. Synapse positions and connection strengths are not shown.
+The collection uses up to 512 neurons per displayed family, selected by a deterministic per-type round-robin with hash-ordered body IDs, plus eight surface exemplars (six already present in the collection). There are 513 optic, 513 mushroom-body, 262 olfactory, and 424 central-complex neurons; the last two groups exhaust the matching type labels in this annotation snapshot. This emphasizes morphological variety, not population frequencies or statistical representativeness. Family assignments use the type-label patterns in `scripts/download-male-cns.py`; they are interface groupings. Type and instance names are copied from the source annotation snapshot. The rendered collection is not the entire published 166,691-neuron brain-and-ventral-nerve-cord reconstruction. Synapse positions and connection strengths are not shown.
 
 Native neuron surface studies: HSN (10015), T4a (13882), MBON01 (10013), KCg-m (14292), VL2a_adPN (10039), DA1_lPN (10075), EPG (10539), and ER5 (10043). All surface vertices and triangles are retained. Meshes load on demand.
 

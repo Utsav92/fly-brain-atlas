@@ -33,7 +33,7 @@ def region(item):
     url=path+fragments[0]
     raw=get(url,OUT/'regions'/f'{id}.bin')
     return dict(id=id,sourceId=int(num),sourceLabel=name,url=BASE+urllib.parse.quote(url,safe='/:'),**mesh_stats(raw))
-with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+with concurrent.futures.ThreadPoolExecutor(max_workers=16) as pool:
     parts=list(pool.map(region,[(i,n) for i,n in rois.items() if n not in ['CV-anterior','CRN']]))
 (OUT/'manifest.json').write_text(json.dumps(dict(source='MaleCNS v1.0 · fullbrain-roi-v5',units='nm',excluded=['CV-anterior','CRN'],parts=parts),indent=2))
 print('Regions',len(parts),'triangles',sum(p['triangles'] for p in parts),flush=True)
@@ -55,10 +55,10 @@ for group,test in groups.items():
     for ids in buckets.values():
         ids.sort(key=int)
         ids[:]=[ids[i] for i in sorted(range(len(ids)),key=lambda i: hashlib.sha256(ids[i].encode()).hexdigest())]
-    count=0;offset=0
-    while count<96:
+    count=0;offset=0;limit=min(512,sum(map(len,buckets.values())))
+    while count<limit:
         for t,ids in sorted(buckets.items()):
-            if offset<len(ids) and count<96:
+            if offset<len(ids) and count<limit:
                 selected[ids[offset]]=group;count+=1
         offset+=1
 featured_types=['HSN','T4a','MBON01','KCg-m','VL2a_adPN','DA1_lPN','EPG','ER5']
@@ -78,6 +78,6 @@ def neuron(item):
         m=get(meshpath,OUT/'neurons'/f'{id}.bin')
         result['mesh']=dict(url=BASE+meshpath,**mesh_stats(m))
     return result
-with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool: neurons=list(pool.map(neuron,selected.items()))
-(OUT/'neurons.json').write_text(json.dumps(dict(source='MaleCNS v1.0',units='nm',selection='96 neurons per displayed family, stratified by type; additional native-surface exemplars. Not a representative or complete connectome.',featured=featured,neurons=neurons),indent=2))
+with concurrent.futures.ThreadPoolExecutor(max_workers=16) as pool: neurons=list(pool.map(neuron,selected.items()))
+(OUT/'neurons.json').write_text(json.dumps(dict(source='MaleCNS v1.0',units='nm',selection='Up to 512 neurons per displayed family, stratified by type; additional native-surface exemplars. Illustrates morphological complexity, not population frequencies or a complete connectome.',featured=featured,neurons=neurons),indent=2))
 print('Neurons',len(neurons),'edges',sum(n['edges'] for n in neurons),'native surfaces',len(featured),flush=True)

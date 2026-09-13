@@ -12,3 +12,6 @@
 
 .group-row{padding-top:11px;padding-bottom:11px}.study-list button{padding-top:13px;padding-bottom:13px}.structure-list{bottom:80px}
 @media(max-width:700px){.structure-list{bottom:95px}}
+
+.neuron-population{position:absolute;top:12px;left:22px;text-align:left;pointer-events:none;white-space:nowrap}.neuron-population strong{display:block;font:34px 'Instrument Serif',Georgia,serif;font-weight:400;letter-spacing:-.3px;color:#d4d4d4}.neuron-population span{display:block;margin-top:6px;font-size:9px;color:#818181;letter-spacing:.2px}
+@media(max-width:700px){.neuron-population{top:8px}.neuron-population strong{font-size:29px}.neuron-population span{font-size:8px}}
