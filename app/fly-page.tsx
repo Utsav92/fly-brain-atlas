@@ -31,7 +31,7 @@ export default function FlyPage(){
  const onlyGroup=(id:GroupId)=>{const all=s.visible.length===1&&s.visible[0]===id;patch({visible:all?GROUPS.map(g=>g.id):[id],selected:null,isolate:false,reset:s.reset+1});};
  return <main className={`fly-studio ${detail?'has-selection':''}`}>
   <header className="atlas-header">
-   <div className="brand"><h1>Fly Brain Atlas</h1><p>MaleCNS <span>·</span> Adult male <i>Drosophila</i></p></div>
+   <div className="brand"><div className="brand-title"><h1>Fly Brain Atlas</h1><a className="author-link" href="https://x.com/ashebytes" target="_blank" rel="noopener noreferrer"><span>by</span> @ashebytes</a></div><p>MaleCNS <span>·</span> Adult male <i>Drosophila</i></p></div>
    <nav className="mode-tabs" aria-label="View">
     {([{mode:'cells',label:'Neurons'},{mode:'brain',label:'Brain'}] as const).map(({mode,label})=><button key={mode} aria-pressed={s.mode===mode} className={s.mode===mode?'active':''} onClick={()=>changeMode(mode)}>{label}</button>)}
    </nav>
