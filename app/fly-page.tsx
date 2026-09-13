@@ -5,7 +5,7 @@ import CellScene from './cell-scene';
 import {CELL_NOTES,type CellAtlas,type CellState} from './cell-data';
 import {GROUPS,SOURCES,definition,groupFor,side,pairedId,type Atlas,type GroupId,type ViewerState} from './fly-data';
 
-const initial:ViewerState={mode:'brain',explode:0,visible:GROUPS.map(g=>g.id),selected:null,isolate:false,rotate:false,labels:false,surface:'tissue',meshLines:false,view:'anterior',reset:0};
+const initial:ViewerState={mode:'cells',explode:0,visible:GROUPS.map(g=>g.id),selected:null,isolate:false,rotate:false,labels:false,surface:'tissue',meshLines:false,view:'anterior',reset:0};
 const miniState:ViewerState={...initial,mode:'fly'};
 const noop=()=>{};
 const emptyCells:CellState={selected:null,group:null,surface:false,solo:false};
@@ -18,7 +18,7 @@ export default function FlyPage(){
  useEffect(()=>{const c=new AbortController();Promise.all([fetch('/male-cns/manifest.json',{signal:c.signal}),fetch('/male-cns/neurons.json',{signal:c.signal})]).then(async responses=>{if(responses.some(r=>!r.ok))throw new Error('The source data could not load.');const [a,n]=await Promise.all(responses.map(r=>r.json()));setAtlas(a as Atlas);setCellData(n as CellAtlas);}).catch(e=>{if(e.name!=='AbortError')setError(e.message);});return()=>c.abort();},[]);
  useEffect(()=>{sources?dialog.current?.showModal():dialog.current?.close();},[sources]);
  const patch=(p:Partial<ViewerState>)=>set(v=>({...v,...p}));
- const changeMode=(mode:ViewerState['mode'])=>{setError('');setProgress(0);setCells(emptyCells);set(v=>({...initial,mode,reset:v.reset+1}));setListOpen(false);};
+ const changeMode=(mode:'brain'|'cells')=>{setError('');setProgress(0);setCells(emptyCells);set(v=>({...initial,mode,reset:v.reset+1}));setListOpen(false);};
  const select=(id:string)=>{const g=definition(id).group;set(v=>({...v,selected:id,isolate:false,visible:v.visible.includes(g)?v.visible:[...v.visible,g]}));setListOpen(false);};
  const selectNeuron=(id:string,surface=false)=>{setCells({selected:id,group:null,surface,solo:surface});patch({explode:0});setListOpen(false);};
  const reset=()=>{set(v=>({...initial,mode:v.mode,reset:v.reset+1}));setCells(emptyCells);};
@@ -33,11 +33,11 @@ export default function FlyPage(){
   <header className="atlas-header">
    <div className="brand"><h1>Fly Brain Atlas</h1><p>MaleCNS <span>·</span> Adult male <i>Drosophila</i></p></div>
    <nav className="mode-tabs" aria-label="View">
-    {([{mode:'brain',label:'Brain'},{mode:'cells',label:'Neurons'},{mode:'fly',label:'Fly'}] as const).map(({mode,label})=><button key={mode} aria-pressed={s.mode===mode} className={s.mode===mode?'active':''} onClick={()=>changeMode(mode)}>{label}</button>)}
+    {([{mode:'cells',label:'Neurons'},{mode:'brain',label:'Brain'}] as const).map(({mode,label})=><button key={mode} aria-pressed={s.mode===mode} className={s.mode===mode?'active':''} onClick={()=>changeMode(mode)}>{label}</button>)}
    </nav>
    <button className="sources-button" onClick={()=>setSources(true)}><BookOpen size={15}/><span>Sources</span></button>
   </header>
-  {atlas&&<button className="fly-mini" aria-label="Show whole fly" onClick={()=>changeMode('fly')}><FlyScene atlas={atlas} state={miniState} bodyOnly onSelect={noop} onProgress={noop} onError={noop}/></button>}
+  {atlas&&<div className="fly-mini" role="img" aria-label="Fruit fly"><FlyScene atlas={atlas} state={miniState} bodyOnly onSelect={noop} onProgress={noop} onError={noop}/></div>}
   <div className="viewport">
    {atlas&&(s.mode==='cells'?cellData&&<CellScene atlas={atlas} data={cellData} state={s} cells={cells} onSelect={id=>selectNeuron(id)} onProgress={setProgress} onError={setError}/>:<FlyScene atlas={atlas} state={s} onSelect={select} onProgress={setProgress} onError={setError}/>)}
    {!error&&progress<100&&<div className="model-loading" role="status"><span className="loader-ring"/><p>Loading {s.mode==='cells'?'neurons':'anatomy'} <span>{progress}%</span></p></div>}
